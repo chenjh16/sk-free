@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Sk-free API 公益站导航，实时读取可编辑数据源。" />
+    <title>Sk-free API Broadcast</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%231b2428'/%3E%3Cpath d='M18 32h28M24 22l-8 10 8 10M40 22l8 10-8 10' fill='none' stroke='%236ee7d8' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='32' cy='32' r='5' fill='%23b8e35a'/%3E%3C/svg%3E" />
+    <script>
+      (() => {
+        const key = "broadcast-theme";
+        const choices = ["light", "dark", "system"];
+        let choice = "system";
+
+        try {
+          choice = localStorage.getItem(key) || "system";
+        } catch {
+          choice = "system";
+        }
+
+        if (!choices.includes(choice)) choice = "system";
+
+        const prefersDark =
+          window.matchMedia &&
+          window.matchMedia("(prefers-color-scheme: dark)").matches;
+        const resolved = choice === "system" ? (prefersDark ? "dark" : "light") : choice;
+        document.documentElement.dataset.theme = resolved;
+        document.documentElement.dataset.themeChoice = choice;
+      })();
+    </script>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <section class="hero-band" aria-labelledby="pageTitle">
+        <div class="theme-switcher" role="group" aria-label="主题模式">
+          <button class="theme-button" type="button" data-theme-choice="light" aria-label="亮色主题" aria-pressed="false" title="亮色主题">
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <circle cx="12" cy="12" r="4" />
+              <path d="M12 2v2" />
+              <path d="M12 20v2" />
+              <path d="m4.93 4.93 1.41 1.41" />
+              <path d="m17.66 17.66 1.41 1.41" />
+              <path d="M2 12h2" />
+              <path d="M20 12h2" />
+              <path d="m6.34 17.66-1.41 1.41" />
+              <path d="m19.07 4.93-1.41 1.41" />
+            </svg>
+          </button>
+          <button class="theme-button" type="button" data-theme-choice="dark" aria-label="暗色主题" aria-pressed="false" title="暗色主题">
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M21 12.6A8.5 8.5 0 1 1 11.4 3 6.5 6.5 0 0 0 21 12.6z" />
+            </svg>
+          </button>
+          <button class="theme-button" type="button" data-theme-choice="system" aria-label="跟随系统" aria-pressed="false" title="跟随系统">
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <rect x="3" y="4" width="18" height="12" rx="2" />
+              <path d="M8 20h8" />
+              <path d="M12 16v4" />
+            </svg>
+          </button>
+        </div>
+        <div class="hero-copy">
+          <p class="eyebrow">SK-FREE.LOC.CC</p>
+          <h1 id="pageTitle">公益 API <span class="keep-together">站点速查</span></h1>
+          <p class="intro">
+            收录可注册、可签到、可生图和长期备用的 API 站点。
+          </p>
+        </div>
+        <div class="hero-image" aria-hidden="true"></div>
+      </section>
+
+      <section class="toolbar" aria-label="筛选站点">
+        <label class="search-field">
+          <span>搜索</span>
+          <input id="searchInput" type="search" autocomplete="off" placeholder="站名、域名、标签、备注" />
+        </label>
+        <div class="summary-strip" id="summaryStrip"></div>
+      </section>
+
+      <nav class="filter-row" id="filterRow" aria-label="标签筛选"></nav>
+
+      <section class="notice-band" id="noticeBand" hidden>
+        <div>
+          <p class="notice-title">公告</p>
+          <div class="notice-content" id="noticeContent"></div>
+        </div>
+      </section>
+
+      <section class="cards-area" id="cardsArea" aria-label="站点列表"></section>
+    </main>
+
+    <template id="siteCardTemplate">
+      <article class="site-card">
+        <div class="card-head">
+          <div>
+            <h2></h2>
+          </div>
+          <ul class="tag-list tag-list-top"></ul>
+        </div>
+        <p class="summary"></p>
+        <dl class="quick-facts"></dl>
+        <div class="notes"></div>
+        <a class="visit-link" target="_blank" rel="noopener noreferrer">
+          访问站点
+          <svg class="visit-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M5 12h14" />
+            <path d="m13 6 6 6-6 6" />
+          </svg>
+        </a>
+      </article>
+    </template>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>
