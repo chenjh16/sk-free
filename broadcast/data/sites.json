@@ -16,6 +16,19 @@
       "summary": "长期表现不错，稳定性较好，可生图，适合作为主力备用。"
     },
     {
+      "name": "Future Hub",
+      "url": "https://api.futureppo.top/register?aff=teqN",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到 20 刀左右",
+      "summary": "免费公益站",
+      "register": "GitHub、edu.cn 邮箱、Linux Do",
+      "rate": "1"
+    },
+    {
       "name": "Tokeness",
       "url": "https://tokeness.io/sign-up?aff=kJht",
       "tags": [
@@ -24,8 +37,7 @@
         "生图"
       ],
       "checkin": "每日签到 0.5 刀",
-      "summary": "非 DC 站，稳定可用，可生图。",
-      "models": "tokeness/free 可免费使用 deepseek-v4-flash"
+      "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。"
     },
     {
       "name": "Model Gate",
