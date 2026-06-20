@@ -5,22 +5,6 @@
   },
   "sites": [
     {
-      "name": "ZZZ Fake API Test",
-      "url": "https://example.com/sk-free-fake",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "每日签到 0 刀",
-      "summary": "端到端测试临时卡片 - edited",
-      "register": "测试注册",
-      "models": "测试模型",
-      "notes": [
-        "用于验证新增、编辑、保存、拖拽、删除流程"
-      ]
-    },
-    {
       "name": "年华 API中转站",
       "url": "https://newapi.makelove.cloud/sign-up?aff=iwbc",
       "tags": [
