@@ -4,7 +4,7 @@
   const CACHE_BUSTER = () => `v=${Date.now()}`;
   const THEME_KEY = "broadcast-theme";
   const THEME_CHOICES = ["light", "dark", "system"];
-  const PRIORITY_TAGS = ["全部", "签到", "生图", "DC系", "半DC系", "非DC", "抽奖"];
+  const PRIORITY_TAGS = ["全部", "签到", "生图", "DC系", "半DC", "非DC", "抽奖"];
   const TAG_CLASS = {
     "签到": "checkin",
     "生图": "image"
