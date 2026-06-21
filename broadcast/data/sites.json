@@ -82,6 +82,17 @@
       "summary": "模型较多，可生图，适合作为通用备用。"
     },
     {
+      "name": "哈基米API站",
+      "url": "https://api.gemai.cc/register?aff=pMDY",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到10-20元",
+      "summary": "模型很全，但基础价格超高，签到蚊子腿。不过持续稳定，适合长期备用。"
+    },
+    {
       "name": "RouterTeam",
       "url": "https://ai.router.team/register?invite=QGMFAD67",
       "tags": [
@@ -168,6 +179,18 @@
       "checkin": "不可签到",
       "summary": "长期免费使用，适合作为低维护备用入口。",
       "register": "GitHub 注册，10 RPM"
+    },
+    {
+      "name": "BizDecipher",
+      "url": "https://bizdecipher.com/register?aff=CWADFXCA8GAM",
+      "tags": [
+        "半DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到2刀",
+      "summary": "可用性良好，倍率低",
+      "rate": "最低0.075"
     },
     {
       "name": "日月API",
