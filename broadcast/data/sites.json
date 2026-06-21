@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-06-21"
+    "updatedAt": "2026-06-22"
   },
   "sites": [
     {
@@ -210,7 +210,7 @@
     },
     {
       "name": "江湖驿站",
-      "url": "https://api.ranmeng.icu/register?invite=JHQWJS9T24LHWQ",
+      "url": "https://api.ranmeng.icu/register?invite=JHSR9NWYU3Z5GU",
       "tags": [
         "半DC",
         "签到"
@@ -218,7 +218,7 @@
       "checkin": "每日签到 1-3 刀",
       "summary": "半 DC 系公益 API 站点，适合作为日常补充额度来源。",
       "notes": [
-        "邀请口令当日有效（2026-06-21 记录）。"
+        "邀请口令当日有效（2026-06-22 记录）。"
       ]
     },
     {
