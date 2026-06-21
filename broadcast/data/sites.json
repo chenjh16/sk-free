@@ -5,15 +5,15 @@
   },
   "sites": [
     {
-      "name": "年华 API中转站",
-      "url": "https://newapi.makelove.cloud/sign-up?aff=iwbc",
+      "name": "DGB 公益站",
+      "url": "https://freeapi.dgbmc.top/register?aff=sOvd",
       "tags": [
         "非DC",
         "签到",
         "生图"
       ],
-      "checkin": "每日签到 2 刀",
-      "summary": "长期表现不错，稳定性较好，可生图，适合作为主力备用。"
+      "checkin": "每日签到50刀",
+      "summary": "注册200刀，GPT-Image-2生图 $0.002，神中神。可惜没有GPT和Claude旗舰模型，其他模型量大管饱，非常推荐！"
     },
     {
       "name": "Future Hub",
@@ -27,6 +27,27 @@
       "summary": "免费公益站",
       "register": "GitHub、edu.cn 邮箱、Linux Do",
       "rate": "1"
+    },
+    {
+      "name": "万象灵算",
+      "url": "https://wxls.ccwu.cc/sign-up?aff=Xpfi",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日签到2刀",
+      "summary": "有GPT和Claude旗舰模型，适合备用。"
+    },
+    {
+      "name": "年华 API中转站",
+      "url": "https://newapi.makelove.cloud/sign-up?aff=iwbc",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到 2 刀",
+      "summary": "长期表现不错，稳定性较好，可生图，适合作为主力备用。"
     },
     {
       "name": "Tokeness",
