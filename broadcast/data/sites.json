@@ -147,8 +147,11 @@
         "签到"
       ],
       "checkin": "每日登录 25 刀",
-      "summary": "老站，域名已恢复注册，适合继续作为日常备用。",
-      "register": "Linux.do 注册"
+      "summary": "老站，域名已恢复，适合继续作为日常备用。邀请码50刀。",
+      "register": "Linux.do",
+      "notes": [
+        "据说直接对接OpenRouter官方API，过于财大气粗了。"
+      ]
     },
     {
       "name": "AgentRouter",
@@ -157,9 +160,9 @@
         "非DC",
         "签到"
       ],
-      "checkin": "每日登录 25 刀",
-      "summary": "老站恢复可用，Anthropic API 格式可用。",
-      "register": "GitHub 注册，邀请码 100 刀"
+      "checkin": "每日 25 刀（需要登出再登录）",
+      "summary": "老站恢复，Anthropic API 格式可用。邀请码 100 刀。",
+      "register": "GitHub"
     },
     {
       "name": "FreeModel",
@@ -167,8 +170,10 @@
       "tags": [
         "非DC"
       ],
-      "checkin": "不可签到",
-      "summary": "注册即可获取 Pro 套餐一个月，五小时 10 刀，累计约 250 刀。"
+      "summary": "注册即可获取 Pro 套餐一个月，五小时 10 刀，累计约 250 刀。",
+      "notes": [
+        "同一IP限制仅一个账号访问，不适合批量注册，仅能到期再注册新号持续薅羊毛。"
+      ]
     },
     {
       "name": "HanGuan's SuperAPI",
@@ -335,7 +340,7 @@
       "checkin": "每日签到 3 刀",
       "summary": "DC 系站点，可签到，但模型映射情况需要留意。",
       "notes": [
-        "DC 拉闸时可能映射到体验较差的模型。"
+        "DC 拉闸时可能映射到体验较差的模型（有点好心办坏事）。"
       ]
     },
     {
@@ -366,7 +371,7 @@
         "签到"
       ],
       "checkin": "每日签到 2 刀",
-      "summary": "暂未命名的 New API 站点，DC 系小额签到。"
+      "summary": "New API 站点，DC 系小额签到。"
     }
   ]
 }
