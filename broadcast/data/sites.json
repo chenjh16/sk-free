@@ -134,6 +134,30 @@
       "rate": "0.2-0.8"
     },
     {
+      "name": "维云模型开放平台",
+      "url": "https://vsllm.com/register?aff=pDcq",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图",
+        "抽奖"
+      ],
+      "checkin": "每日获得 1 日保底套餐",
+      "summary": "长期稳定大站，模型种类多，可多次抽奖攒小额额度。",
+      "rate": "2",
+      "notes": [
+        "每日可多次抽奖。"
+      ]
+    },
+    {
+      "name": "localhost.cc",
+      "url": "https://localhost.cc/invite/yjgrz",
+      "tags": [
+        "域名"
+      ],
+      "summary": "不是中转站，受邀注册获得20积分，可以注册两个二级域名"
+    },
+    {
       "name": "哈基米API站",
       "url": "https://api.gemai.cc/register?aff=pMDY",
       "tags": [
@@ -144,14 +168,6 @@
       "checkin": "每日签到10-20元",
       "summary": "模型很全，但基础价格超高，签到蚊子腿。不过持续稳定，适合长期备用。",
       "rate": "1（基础价格超高）"
-    },
-    {
-      "name": "localhost.cc",
-      "url": "https://localhost.cc/invite/yjgrz",
-      "tags": [
-        "域名"
-      ],
-      "summary": "不是中转站，受邀注册获得20积分，可以注册两个二级域名"
     },
     {
       "name": "BizDecipher",
@@ -176,22 +192,6 @@
       "checkin": "每日签到 0.5 刀",
       "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。",
       "rate": "0.1"
-    },
-    {
-      "name": "维云模型开放平台",
-      "url": "https://vsllm.com/register?aff=pDcq",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图",
-        "抽奖"
-      ],
-      "checkin": "每日获得 1 日保底套餐",
-      "summary": "长期稳定大站，模型种类多，可多次抽奖攒小额额度。",
-      "rate": "2",
-      "notes": [
-        "每日可多次抽奖。"
-      ]
     },
     {
       "name": "Future Hub",
