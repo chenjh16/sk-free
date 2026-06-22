@@ -87,7 +87,7 @@
       "register": "Linux.do",
       "rate": "1",
       "notes": [
-        "据说直接对接OpenRouter官方API，过于财大气粗了。"
+        "需要代理访问，据说直接对接OpenRouter官方API，过于财大气粗了。"
       ]
     },
     {
@@ -100,16 +100,23 @@
       "checkin": "每日 25 刀（需要登出再登录）",
       "summary": "老站恢复，Anthropic API 格式可用。受邀注册 100 刀。",
       "register": "GitHub",
-      "rate": "1"
+      "rate": "1",
+      "notes": [
+        "需要代理访问。注意，每日签到需要登出再重新登录。"
+      ]
     },
     {
       "name": "词元枢阁 Token Nexus",
       "url": "https://api.aisz.mom/sign-up?aff=eYs4",
       "tags": [
-        "非DC"
+        "非DC",
+        "生图"
       ],
       "summary": "长期稳定站点，长期免费chat模型 gpt/gemini/grok。",
-      "rate": "0.1"
+      "rate": "0.1",
+      "notes": [
+        "不定期免费，或超低倍率0.01活动。"
+      ]
     },
     {
       "name": "Gleam免费二级域名",
