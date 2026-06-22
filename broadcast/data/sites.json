@@ -74,6 +74,16 @@
       "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。"
     },
     {
+      "name": "Gleam免费二级域名",
+      "url": "https://sld.0n.pub/register?invite=2A61CFE8",
+      "tags": [
+        "签到",
+        "域名"
+      ],
+      "checkin": "每日签到10分",
+      "summary": "不是模型中转站，但是可以获取免费二级域名，受邀请注册获得30积分。"
+    },
+    {
       "name": "Model Gate",
       "url": "https://modelgate.app/register?aff=cAJg",
       "tags": [
@@ -93,6 +103,14 @@
       ],
       "checkin": "每日签到 2 刀",
       "summary": "模型较多，可生图，适合作为通用备用。"
+    },
+    {
+      "name": "localhost.cc",
+      "url": "https://localhost.cc/invite/yjgrz",
+      "tags": [
+        "域名"
+      ],
+      "summary": "不是中转站，受邀注册获得20积分，可以注册两个二级域名"
     },
     {
       "name": "哈基米API站",
@@ -197,6 +215,14 @@
       "checkin": "不可签到",
       "summary": "长期免费使用，适合作为低维护备用入口。",
       "register": "GitHub 注册，10 RPM"
+    },
+    {
+      "name": "词元枢阁 Token Nexus",
+      "url": "https://api.aisz.mom/sign-up?aff=eYs4",
+      "tags": [
+        "非DC"
+      ],
+      "summary": "长期稳定站点，有免费chat模型。"
     },
     {
       "name": "BizDecipher",
