@@ -161,16 +161,6 @@
       ]
     },
     {
-      "name": "CodexAI",
-      "url": "https://new.sharedchat.cc",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "每日领取 50-100 刀额度（当日可用，不累计）",
-      "summary": "适合应急备用，额度领取范围较高，但额度仅当日可用。"
-    },
-    {
       "name": "AnyRouter",
       "url": "https://anyrouter.top/register?aff=oTHk",
       "tags": [
@@ -207,22 +197,13 @@
       ]
     },
     {
-      "name": "HanGuan's SuperAPI",
-      "url": "https://sapi.hanguan.icu",
-      "tags": [
-        "非DC"
-      ],
-      "checkin": "不可签到",
-      "summary": "长期免费使用，适合作为低维护备用入口。",
-      "register": "GitHub 注册，10 RPM"
-    },
-    {
       "name": "词元枢阁 Token Nexus",
       "url": "https://api.aisz.mom/sign-up?aff=eYs4",
       "tags": [
         "非DC"
       ],
-      "summary": "长期稳定站点，有免费chat模型。"
+      "summary": "长期稳定站点，有免费chat模型。",
+      "rate": "0.1"
     },
     {
       "name": "BizDecipher",
@@ -234,7 +215,27 @@
       ],
       "checkin": "每日签到2刀",
       "summary": "可用性良好，倍率低",
-      "rate": "最低0.075"
+      "rate": "约0.06"
+    },
+    {
+      "name": "CodexAI",
+      "url": "https://new.sharedchat.cc",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日领取 50-100 刀额度（当日可用，不累计）",
+      "summary": "适合应急备用，额度领取范围较高，但额度仅当日可用。"
+    },
+    {
+      "name": "HanGuan's SuperAPI",
+      "url": "https://sapi.hanguan.icu",
+      "tags": [
+        "非DC"
+      ],
+      "checkin": "不可签到",
+      "summary": "长期免费使用，适合作为低维护备用入口。",
+      "register": "GitHub 注册，10 RPM"
     },
     {
       "name": "日月API",
@@ -245,7 +246,11 @@
         "签到"
       ],
       "checkin": "社区群每日签到约15刀",
-      "summary": "GPT-Image-2生图稳定可用，0.5刀每次，签到一次可生成约30张图。"
+      "summary": "GPT-Image-2生图稳定可用，0.5刀每次，签到一次可生成约30张图。",
+      "rate": "1",
+      "notes": [
+        "站内博彩小游戏很上头，尤其挖矿，一夜暴富"
+      ]
     },
     {
       "name": "江湖驿站",
@@ -255,7 +260,8 @@
         "签到"
       ],
       "checkin": "每日签到 1-3 刀",
-      "summary": "半 DC 系公益 API 站点，适合作为日常补充额度来源。",
+      "summary": "半 DC 系公益 API 站点，国内开源模型免费，适合作为日常补充额度来源。",
+      "rate": "0.1",
       "notes": [
         "邀请口令当日有效（2026-06-22 记录）。"
       ]
@@ -269,7 +275,8 @@
         "生图"
       ],
       "checkin": "每日签到 3 刀",
-      "summary": "半 DC 系站点，日常签到额度明确，可生图。"
+      "summary": "半 DC 系站点，日常签到额度明确，可生图。",
+      "rate": "0.2"
     },
     {
       "name": "CloseAPI",
@@ -280,8 +287,9 @@
         "生图",
         "抽奖"
       ],
-      "checkin": "每日签到 3 刀",
-      "summary": "支持生图，论坛额外签到和每日抽奖可继续攒额度。",
+      "checkin": "每日签到 3 刀，社区群签到每日 1-5 刀",
+      "summary": "支持生图，社区群可以签到、抽奖、获取站点口令，额外签到和每日抽奖可继续攒额度。",
+      "rate": "0.1",
       "notes": [
         "论坛额外签到约 1-5 刀。"
       ]
@@ -294,8 +302,9 @@
         "签到",
         "抽奖"
       ],
-      "checkin": "社区群签到抽奖 5-20 刀",
-      "summary": "DC 系公益站，社区群中每小时有抽奖，每次 1-3 刀。"
+      "checkin": "社区群签到 5-20 刀",
+      "summary": "DC 系公益站，社区群中，每小时有抽奖，每次 1-10 刀。",
+      "rate": "0.1"
     },
     {
       "name": "凌风公益token-2",
@@ -305,8 +314,9 @@
         "签到",
         "抽奖"
       ],
-      "checkin": "社区群签到抽奖 5-20 刀",
-      "summary": "DC 系公益站，主要额度来自社区群签到抽奖。"
+      "checkin": "日常签到10刀，社区群签到 5-20 刀",
+      "summary": "DC 系公益站，受邀注册赠送30刀。",
+      "rate": "0.1"
     },
     {
       "name": "dc API",
@@ -317,7 +327,8 @@
         "生图"
       ],
       "checkin": "每日签到 2 刀",
-      "summary": "半 DC 系站点，适合做低门槛备用。"
+      "summary": "半 DC 系站点，适合做低门槛备用。",
+      "rate": "0.1"
     },
     {
       "name": "free API",
@@ -326,8 +337,9 @@
         "半DC",
         "签到"
       ],
-      "checkin": "每日签到约等价 5 刀",
-      "summary": "半 DC 系站点，签到额度较高，适合持续关注。"
+      "checkin": "每日签到 5-30 刀",
+      "summary": "半 DC 系站点，签到额度较高，适合持续关注。",
+      "rate": "0.35"
     },
     {
       "name": "247看API",
@@ -336,8 +348,9 @@
         "DC系",
         "签到"
       ],
-      "checkin": "每日签到 5 刀",
-      "summary": "DC 系站点，签到额度直接。"
+      "checkin": "每日签到 2-5 刀",
+      "summary": "DC 系站点，签到额度稳定。",
+      "rate": "0.1"
     },
     {
       "name": "Universe Federation公益",
@@ -347,7 +360,8 @@
         "签到"
       ],
       "checkin": "每日签到 2-10 刀",
-      "summary": "DC 系公益站，签到额度区间较宽。"
+      "summary": "DC 系公益站，签到额度区间较宽。",
+      "rate": "0.1"
     },
     {
       "name": "FlowKey",
@@ -357,7 +371,8 @@
         "签到"
       ],
       "checkin": "每日签到 1-5 刀",
-      "summary": "DC 系站点，适合做轻量备用。"
+      "summary": "DC 系站点，适合做轻量备用。",
+      "rate": "0.1"
     },
     {
       "name": "Cyrene API",
@@ -367,30 +382,34 @@
         "签到"
       ],
       "checkin": "每日签到 2-3 刀",
-      "summary": "DC 系站点，签到额度稳定在小额区间。"
+      "summary": "DC 系站点，签到额度稳定在小额区间。",
+      "rate": "0.1"
     },
     {
       "name": "Owen-AI小酒馆",
       "url": "https://api891.cc.cd/sign-up?aff=rzpc",
       "tags": [
-        "DC系",
-        "签到"
+        "半DC",
+        "签到",
+        "生图"
       ],
       "checkin": "每日签到 3 刀",
-      "summary": "DC 系站点，可签到，但模型映射情况需要留意。",
+      "summary": "DC 系站点，可签到，有额外GLM-5.2。",
+      "rate": "0.1",
       "notes": [
-        "DC 拉闸时可能映射到体验较差的模型（有点好心办坏事）。"
+        "DC 拉闸时可能映射到体验较差的模型（站长有点好心办坏事？）。"
       ]
     },
     {
-      "name": "童工艺",
+      "name": "童🐖工艺",
       "url": "https://newapi.loveyou.kdns.fr/sign-up?aff=MsZa",
       "tags": [
         "DC系",
         "签到"
       ],
       "checkin": "每日签到 2 刀",
-      "summary": "DC 系站点，日常签到型备用。"
+      "summary": "DC 系站点，日常签到型备用。",
+      "rate": "0.1"
     },
     {
       "name": "LS_mika",
@@ -399,8 +418,9 @@
         "DC系",
         "签到"
       ],
-      "checkin": "每日签到 2 刀",
-      "summary": "DC 系站点，适合补充小额额度。"
+      "checkin": "每日签到 2-5 刀",
+      "summary": "DC 系站点，适合补充小额额度。",
+      "rate": "0.1"
     },
     {
       "name": "New API",
@@ -409,8 +429,9 @@
         "DC系",
         "签到"
       ],
-      "checkin": "每日签到 2 刀",
-      "summary": "New API 站点，DC 系小额签到。"
+      "checkin": "每日签到 1-2 刀",
+      "summary": "New API 站点，DC 系小额签到。",
+      "rate": "0.1"
     }
   ]
 }
