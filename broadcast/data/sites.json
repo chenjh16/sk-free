@@ -5,17 +5,16 @@
   },
   "sites": [
     {
-      "name": "禾维 AI",
-      "url": "https://hvoy.ai/user/register?invite=HV3BPMJRWE",
+      "name": "斑马API",
+      "url": "https://bmapi.020212.xyz/register?aff=SMTLY9LMHTFU",
       "tags": [
         "非DC",
-        "签到"
+        "签到",
+        "生图"
       ],
-      "checkin": "每日签到10积分",
-      "summary": "受邀请注册20积分，使用积分可以领取免费API Key",
-      "notes": [
-        "API Key有GPT旗舰模型，和种类丰富的开源模型"
-      ]
+      "checkin": "每日签到100积分（约60次API调用）",
+      "summary": "Claude和GPT的Pro订阅，稳定靠谱，值得收藏。",
+      "rate": "1"
     },
     {
       "name": "FreeModel",
@@ -30,6 +29,19 @@
       ]
     },
     {
+      "name": "禾维 AI",
+      "url": "https://hvoy.ai/user/register?invite=HV3BPMJRWE",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日签到10积分",
+      "summary": "受邀请注册20积分，使用积分可以领取免费API Key",
+      "notes": [
+        "API Key有GPT旗舰模型，和种类丰富的开源模型"
+      ]
+    },
+    {
       "name": "Guyscode",
       "url": "https://www.guyscode.com/register?aff=aYAY",
       "tags": [
@@ -37,7 +49,7 @@
         "签到",
         "生图"
       ],
-      "checkin": "每日签到 2 刀",
+      "checkin": "每日签到 2 刀（签到在仪表盘下翻）",
       "summary": "有GPT和Cluade旗舰模型，模型较多，可生图，适合作为通用备用。",
       "rate": "0.1"
     },
