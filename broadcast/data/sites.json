@@ -18,15 +18,180 @@
       ]
     },
     {
-      "name": "DGB 公益站",
-      "url": "https://freeapi.dgbmc.top/register?aff=sOvd",
+      "name": "FreeModel",
+      "url": "https://freemodel.dev/invite/FRE-9d95751a",
+      "tags": [
+        "非DC"
+      ],
+      "summary": "注册即可获取 Pro 套餐一个月，五小时 10 刀，累计约 250 刀。",
+      "rate": "1",
+      "notes": [
+        "同一IP限制仅一个账号访问，不适合批量注册，仅能到期再注册新号持续薅羊毛。"
+      ]
+    },
+    {
+      "name": "Guyscode",
+      "url": "https://www.guyscode.com/register?aff=aYAY",
       "tags": [
         "非DC",
         "签到",
         "生图"
       ],
-      "checkin": "每日签到50刀",
-      "summary": "注册200刀，GPT-Image-2生图 $0.002，神中神。可惜没有GPT和Claude旗舰模型，其他模型量大管饱，非常推荐！"
+      "checkin": "每日签到 2 刀",
+      "summary": "有GPT和Cluade旗舰模型，模型较多，可生图，适合作为通用备用。",
+      "rate": "0.1"
+    },
+    {
+      "name": "万象灵算",
+      "url": "https://wxls.ccwu.cc/sign-up?aff=Xpfi",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日签到2刀",
+      "summary": "有GPT和Claude旗舰模型，倍率较高，适合备用。",
+      "rate": "2"
+    },
+    {
+      "name": "Model Gate",
+      "url": "https://modelgate.app/register?aff=cAJg",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日签到 1 刀",
+      "summary": "长期稳定，适合长期收藏。",
+      "rate": "1"
+    },
+    {
+      "name": "RouterTeam",
+      "url": "https://ai.router.team/register?invite=QGMFAD67",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到 3 刀",
+      "summary": "可生图，倍率略高，连续签到有额外奖励，适合作为备用。",
+      "rate": "1.5"
+    },
+    {
+      "name": "AnyRouter",
+      "url": "https://anyrouter.top/register?aff=oTHk",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日登录 25 刀",
+      "summary": "老站，域名已恢复，适合继续作为日常备用。邀请码50刀。",
+      "register": "Linux.do",
+      "rate": "1",
+      "notes": [
+        "据说直接对接OpenRouter官方API，过于财大气粗了。"
+      ]
+    },
+    {
+      "name": "AgentRouter",
+      "url": "https://agentrouter.org/register?aff=l1gl",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日 25 刀（需要登出再登录）",
+      "summary": "老站恢复，Anthropic API 格式可用。邀请码 100 刀。",
+      "register": "GitHub",
+      "rate": "1"
+    },
+    {
+      "name": "词元枢阁 Token Nexus",
+      "url": "https://api.aisz.mom/sign-up?aff=eYs4",
+      "tags": [
+        "非DC"
+      ],
+      "summary": "长期稳定站点，有免费chat模型。",
+      "rate": "0.1"
+    },
+    {
+      "name": "Gleam免费二级域名",
+      "url": "https://sld.0n.pub/register?invite=2A61CFE8",
+      "tags": [
+        "签到",
+        "域名"
+      ],
+      "checkin": "每日签到10分",
+      "summary": "不是模型中转站，但是可以获取免费二级域名，受邀请注册获得30积分。"
+    },
+    {
+      "name": "聚合api",
+      "url": "https://aiyiwei.vip/register?aff=8PHJ",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到 0.3 刀",
+      "summary": "稳定大站，模型种类多，适合长期使用，可生图。",
+      "rate": "0.2-0.8"
+    },
+    {
+      "name": "哈基米API站",
+      "url": "https://api.gemai.cc/register?aff=pMDY",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到10-20元",
+      "summary": "模型很全，但基础价格超高，签到蚊子腿。不过持续稳定，适合长期备用。",
+      "rate": "1（基础价格超高）"
+    },
+    {
+      "name": "localhost.cc",
+      "url": "https://localhost.cc/invite/yjgrz",
+      "tags": [
+        "域名"
+      ],
+      "summary": "不是中转站，受邀注册获得20积分，可以注册两个二级域名"
+    },
+    {
+      "name": "BizDecipher",
+      "url": "https://bizdecipher.com/register?aff=CWADFXCA8GAM",
+      "tags": [
+        "半DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到2刀",
+      "summary": "可用性良好，倍率低",
+      "rate": "约0.06"
+    },
+    {
+      "name": "Tokeness",
+      "url": "https://tokeness.io/sign-up?aff=kJht",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到 0.5 刀",
+      "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。",
+      "rate": "0.1"
+    },
+    {
+      "name": "维云模型开放平台",
+      "url": "https://vsllm.com/register?aff=pDcq",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图",
+        "抽奖"
+      ],
+      "checkin": "每日获得 1 日保底套餐",
+      "summary": "长期稳定大站，模型种类多，可多次抽奖攒小额额度。",
+      "rate": "2",
+      "notes": [
+        "每日可多次抽奖。"
+      ]
     },
     {
       "name": "Future Hub",
@@ -42,14 +207,16 @@
       "rate": "1"
     },
     {
-      "name": "万象灵算",
-      "url": "https://wxls.ccwu.cc/sign-up?aff=Xpfi",
+      "name": "DGB 公益站",
+      "url": "https://freeapi.dgbmc.top/register?aff=sOvd",
       "tags": [
         "非DC",
-        "签到"
+        "签到",
+        "生图"
       ],
-      "checkin": "每日签到2刀",
-      "summary": "有GPT和Claude旗舰模型，适合备用。"
+      "checkin": "每日签到50刀",
+      "summary": "注册200刀，GPT-Image-2生图 $0.002，神中神。可惜没有GPT和Claude旗舰模型，其他模型量大管饱，非常推荐！",
+      "rate": "0.1-1"
     },
     {
       "name": "年华 API中转站",
@@ -60,162 +227,8 @@
         "生图"
       ],
       "checkin": "每日签到 2 刀",
-      "summary": "长期表现不错，稳定性较好，可生图，适合作为主力备用。"
-    },
-    {
-      "name": "Tokeness",
-      "url": "https://tokeness.io/sign-up?aff=kJht",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "每日签到 0.5 刀",
-      "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。"
-    },
-    {
-      "name": "Gleam免费二级域名",
-      "url": "https://sld.0n.pub/register?invite=2A61CFE8",
-      "tags": [
-        "签到",
-        "域名"
-      ],
-      "checkin": "每日签到10分",
-      "summary": "不是模型中转站，但是可以获取免费二级域名，受邀请注册获得30积分。"
-    },
-    {
-      "name": "Model Gate",
-      "url": "https://modelgate.app/register?aff=cAJg",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "每日签到 1 刀",
-      "summary": "长期稳定，适合长期收藏。"
-    },
-    {
-      "name": "Guyscode",
-      "url": "https://www.guyscode.com/register?aff=aYAY",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "每日签到 2 刀",
-      "summary": "模型较多，可生图，适合作为通用备用。"
-    },
-    {
-      "name": "localhost.cc",
-      "url": "https://localhost.cc/invite/yjgrz",
-      "tags": [
-        "域名"
-      ],
-      "summary": "不是中转站，受邀注册获得20积分，可以注册两个二级域名"
-    },
-    {
-      "name": "哈基米API站",
-      "url": "https://api.gemai.cc/register?aff=pMDY",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "每日签到10-20元",
-      "summary": "模型很全，但基础价格超高，签到蚊子腿。不过持续稳定，适合长期备用。"
-    },
-    {
-      "name": "RouterTeam",
-      "url": "https://ai.router.team/register?invite=QGMFAD67",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "每日签到 3 刀",
-      "summary": "可生图，连续签到有额外奖励。"
-    },
-    {
-      "name": "聚合api",
-      "url": "https://aiyiwei.vip/register?aff=8PHJ",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "每日签到 0.3 刀",
-      "summary": "稳定大站，模型种类多，适合长期使用，可生图。"
-    },
-    {
-      "name": "维云模型开放平台",
-      "url": "https://vsllm.com/register?aff=pDcq",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图",
-        "抽奖"
-      ],
-      "checkin": "每日获得 1 日保底套餐",
-      "summary": "长期稳定大站，模型种类多，可多次抽奖攒小额额度。",
-      "notes": [
-        "每日可多次抽奖。"
-      ]
-    },
-    {
-      "name": "AnyRouter",
-      "url": "https://anyrouter.top/register?aff=oTHk",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "每日登录 25 刀",
-      "summary": "老站，域名已恢复，适合继续作为日常备用。邀请码50刀。",
-      "register": "Linux.do",
-      "notes": [
-        "据说直接对接OpenRouter官方API，过于财大气粗了。"
-      ]
-    },
-    {
-      "name": "AgentRouter",
-      "url": "https://agentrouter.org/register?aff=l1gl",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "每日 25 刀（需要登出再登录）",
-      "summary": "老站恢复，Anthropic API 格式可用。邀请码 100 刀。",
-      "register": "GitHub"
-    },
-    {
-      "name": "FreeModel",
-      "url": "https://freemodel.dev/invite/FRE-9d95751a",
-      "tags": [
-        "非DC"
-      ],
-      "summary": "注册即可获取 Pro 套餐一个月，五小时 10 刀，累计约 250 刀。",
-      "notes": [
-        "同一IP限制仅一个账号访问，不适合批量注册，仅能到期再注册新号持续薅羊毛。"
-      ]
-    },
-    {
-      "name": "词元枢阁 Token Nexus",
-      "url": "https://api.aisz.mom/sign-up?aff=eYs4",
-      "tags": [
-        "非DC"
-      ],
-      "summary": "长期稳定站点，有免费chat模型。",
-      "rate": "0.1"
-    },
-    {
-      "name": "BizDecipher",
-      "url": "https://bizdecipher.com/register?aff=CWADFXCA8GAM",
-      "tags": [
-        "半DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "每日签到2刀",
-      "summary": "可用性良好，倍率低",
-      "rate": "约0.06"
+      "summary": "长期表现不错，稳定性较好，可生图，适合作为主力备用。",
+      "rate": "0.05-1"
     },
     {
       "name": "CodexAI",
@@ -225,7 +238,8 @@
         "签到"
       ],
       "checkin": "每日领取 50-100 刀额度（当日可用，不累计）",
-      "summary": "适合应急备用，额度领取范围较高，但额度仅当日可用。"
+      "summary": "适合应急备用，额度领取范围较高，但额度仅当日可用。",
+      "rate": "1"
     },
     {
       "name": "HanGuan's SuperAPI",
