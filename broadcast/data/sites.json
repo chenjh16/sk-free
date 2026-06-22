@@ -83,7 +83,7 @@
         "签到"
       ],
       "checkin": "每日登录 25 刀",
-      "summary": "老站，域名已恢复，适合继续作为日常备用。邀请码50刀。",
+      "summary": "老站，域名已恢复，适合继续作为日常备用。受邀注册50刀。",
       "register": "Linux.do",
       "rate": "1",
       "notes": [
@@ -98,7 +98,7 @@
         "签到"
       ],
       "checkin": "每日 25 刀（需要登出再登录）",
-      "summary": "老站恢复，Anthropic API 格式可用。邀请码 100 刀。",
+      "summary": "老站恢复，Anthropic API 格式可用。受邀注册 100 刀。",
       "register": "GitHub",
       "rate": "1"
     },
@@ -108,7 +108,7 @@
       "tags": [
         "非DC"
       ],
-      "summary": "长期稳定站点，有免费chat模型。",
+      "summary": "长期稳定站点，长期免费chat模型 gpt/gemini/grok。",
       "rate": "0.1"
     },
     {
@@ -130,7 +130,7 @@
         "生图"
       ],
       "checkin": "每日签到 0.3 刀",
-      "summary": "稳定大站，模型种类多，适合长期使用，可生图。",
+      "summary": "长期稳定大站，模型种类多，可生图，适合长期使用（备用）。",
       "rate": "0.2-0.8"
     },
     {
@@ -143,10 +143,10 @@
         "抽奖"
       ],
       "checkin": "每日获得 1 日保底套餐",
-      "summary": "长期稳定大站，模型种类多，可多次抽奖攒小额额度。",
+      "summary": "长期稳定大站，模型种类多，每日可多次抽奖攒小额额度，适合长期使用（备用）。",
       "rate": "2",
       "notes": [
-        "每日可多次抽奖。"
+        "免费deepseek-v4-flash/pro-free、minimax-m3、mimo-v2.5、qwen3.6-plus等等，0.001每次claude-opus-4-8-free，0.002每次glm-5.2-free"
       ]
     },
     {
