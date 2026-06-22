@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-06-22"
+    "updatedAt": "2026-06-23"
   },
   "sites": [
     {
@@ -51,6 +51,21 @@
       "checkin": "每日签到2刀",
       "summary": "有GPT和Claude旗舰模型，倍率较高，适合备用。",
       "rate": "2"
+    },
+    {
+      "name": "Rua Chat",
+      "url": "https://api.rua.chat/sign-up?aff=U3sA",
+      "tags": [
+        "非DC",
+        "签到",
+        "限免"
+      ],
+      "checkin": "每日2-5刀",
+      "summary": "猛男站，受邀注册送10刀，Claude收费，Gemin/Grok免费。",
+      "rate": "0.5",
+      "notes": [
+        "过于猛男，受不了的误入。"
+      ]
     },
     {
       "name": "Model Gate",
@@ -141,13 +156,13 @@
       "rate": "0.2-0.8"
     },
     {
-      "name": "维云模型开放平台",
+      "name": "维云",
       "url": "https://vsllm.com/register?aff=pDcq",
       "tags": [
         "非DC",
         "签到",
         "生图",
-        "抽奖"
+        "限免"
       ],
       "checkin": "每日获得 1 日保底套餐",
       "summary": "长期稳定大站，模型种类多，每日可多次抽奖攒小额额度，适合长期使用（备用）。",
@@ -275,7 +290,7 @@
     },
     {
       "name": "江湖驿站",
-      "url": "https://api.ranmeng.icu/register?invite=JHSR9NWYU3Z5GU",
+      "url": "https://api.ranmeng.icu/register?invite=JHSB7F398AL3QB",
       "tags": [
         "半DC",
         "签到"
