@@ -50,7 +50,7 @@
         "生图"
       ],
       "checkin": "每日签到 2 刀（签到在仪表盘下翻）",
-      "summary": "有GPT和Cluade旗舰模型，模型较多，可生图，适合作为通用备用。",
+      "summary": "需要代理访问。有GPT和Cluade旗舰模型，模型较多，可生图，适合作为通用备用。",
       "rate": "0.1"
     },
     {
@@ -73,7 +73,7 @@
         "限免"
       ],
       "checkin": "每日2-5刀",
-      "summary": "猛男站，受邀注册送10刀，Claude收费，Gemin/Grok免费。",
+      "summary": "猛男站，受邀注册送10刀，Claude收费，Gemin/Grok免费。【个人资料】页面下方签到。",
       "rate": "0.5",
       "notes": [
         "过于猛男，受不了的误入。"
@@ -110,11 +110,11 @@
         "签到"
       ],
       "checkin": "每日登录 25 刀",
-      "summary": "老站，域名已恢复，适合继续作为日常备用。受邀注册50刀。",
+      "summary": "靠谱老站，不拥挤时适合日常使用。受邀注册50刀。需要代理访问，据说直接对接OpenRouter官方API，过于财大气粗了。",
       "register": "Linux.do",
       "rate": "1",
       "notes": [
-        "需要代理访问，据说直接对接OpenRouter官方API，过于财大气粗了。"
+        "推荐注册路径：5年Github账号，https://invite.linuxdo.org，注册Linux.do，再走邀请链接，登录Anyrouter。"
       ]
     },
     {
