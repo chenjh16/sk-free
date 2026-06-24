@@ -140,6 +140,17 @@
       "rate": "2"
     },
     {
+      "name": "free API",
+      "url": "https://cheapyun.cc.cd/register?aff=6ca9",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日签到 5-30 刀",
+      "summary": "签到额度较高，适合持续关注。",
+      "rate": "0.35"
+    },
+    {
       "name": "Model Gate",
       "url": "https://modelgate.app/register?aff=cAJg",
       "tags": [
@@ -413,17 +424,6 @@
       "checkin": "每日签到 2 刀",
       "summary": "半 DC 系站点，适合做低门槛备用。",
       "rate": "0.1"
-    },
-    {
-      "name": "free API",
-      "url": "https://cheapyun.cc.cd/sign-up?aff=V6uc",
-      "tags": [
-        "半DC",
-        "签到"
-      ],
-      "checkin": "每日签到 5-30 刀",
-      "summary": "半 DC 系站点，签到额度较高，适合持续关注。",
-      "rate": "0.35"
     },
     {
       "name": "247看API",
