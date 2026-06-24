@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-06-23"
+    "updatedAt": "2026-06-24"
   },
   "sites": [
     {
@@ -40,6 +40,30 @@
       "notes": [
         "API Key有GPT旗舰模型，和种类丰富的开源模型"
       ]
+    },
+    {
+      "name": "Tokeness",
+      "url": "https://tokeness.io/sign-up?aff=kJht",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到 0.5 刀",
+      "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。",
+      "rate": "0.1"
+    },
+    {
+      "name": "BizDecipher",
+      "url": "https://bizdecipher.com/register?aff=CWADFXCA8GAM",
+      "tags": [
+        "半DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到2刀",
+      "summary": "可用性良好，倍率低",
+      "rate": "约0.06"
     },
     {
       "name": "Guyscode",
@@ -204,30 +228,6 @@
       "rate": "1（基础价格超高）"
     },
     {
-      "name": "BizDecipher",
-      "url": "https://bizdecipher.com/register?aff=CWADFXCA8GAM",
-      "tags": [
-        "半DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "每日签到2刀",
-      "summary": "可用性良好，倍率低",
-      "rate": "约0.06"
-    },
-    {
-      "name": "Tokeness",
-      "url": "https://tokeness.io/sign-up?aff=kJht",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "每日签到 0.5 刀",
-      "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。",
-      "rate": "0.1"
-    },
-    {
       "name": "Future Hub",
       "url": "https://api.futureppo.top/register?aff=teqN",
       "tags": [
@@ -286,21 +286,6 @@
       "register": "GitHub 注册，10 RPM"
     },
     {
-      "name": "日月API",
-      "url": "https://riyuexy.cc/login?aff=M8JK5VEUQG3U",
-      "tags": [
-        "半DC",
-        "生图",
-        "签到"
-      ],
-      "checkin": "社区群每日签到约15刀",
-      "summary": "GPT-Image-2生图稳定可用，0.5刀每次，签到一次可生成约30张图。",
-      "rate": "1",
-      "notes": [
-        "站内博彩小游戏很上头，尤其挖矿，一夜暴富"
-      ]
-    },
-    {
       "name": "江湖驿站",
       "url": "https://api.ranmeng.icu/register?invite=JHSB7F398AL3QB",
       "tags": [
@@ -353,6 +338,21 @@
       "checkin": "社区群签到 5-20 刀",
       "summary": "DC 系公益站，社区群中，每小时有抽奖，每次 1-10 刀。",
       "rate": "0.1"
+    },
+    {
+      "name": "日月API",
+      "url": "https://riyuexy.cc/login?aff=M8JK5VEUQG3U",
+      "tags": [
+        "半DC",
+        "生图",
+        "签到"
+      ],
+      "checkin": "社区群每日签到约15刀",
+      "summary": "GPT-Image-2生图稳定可用，0.5刀每次，签到一次可生成约30张图。",
+      "rate": "1",
+      "notes": [
+        "站内博彩小游戏很上头，尤其挖矿，一夜暴富"
+      ]
     },
     {
       "name": "凌风公益token-2",
