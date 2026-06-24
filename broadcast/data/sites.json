@@ -5,16 +5,19 @@
   },
   "sites": [
     {
-      "name": "斑马API",
-      "url": "https://bmapi.020212.xyz/register?aff=SMTLY9LMHTFU",
+      "name": "52模型",
+      "url": "https://52mx.net/sign-up?aff=lz7E",
       "tags": [
         "非DC",
         "签到",
-        "生图"
+        "生图",
+        "限免"
       ],
-      "checkin": "每日签到100积分（约60次API调用）",
-      "summary": "Claude Max和GPT Pro订阅，稳定靠谱，值得收藏。",
-      "rate": "1"
+      "checkin": "签到1-2刀（相对于模型价格算比较大）",
+      "summary": "DeepSeek V4 Pro、GLM-5.1、Kimi-K2.6、Minimax-M3、Qwen3.6等模型限免。付费主力模型为Cluade旗舰，$7.5/1M输出。签到用量尚可，推荐。",
+      "notes": [
+        "可能有封号风险，需要购买1元永久保号套餐。"
+      ]
     },
     {
       "name": "FreeModel",
@@ -40,6 +43,27 @@
       "notes": [
         "API Key有GPT旗舰模型，和种类丰富的开源模型"
       ]
+    },
+    {
+      "name": "云舟API",
+      "url": "https://cli.999554.xyz/register?aff=54JV",
+      "tags": [
+        "非DC",
+        "生图",
+        "限免"
+      ],
+      "summary": "DeepSeek V4 Flash 限时免费。"
+    },
+    {
+      "name": "可萌中转站",
+      "url": "https://api456.me/register?aff=qIFs",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每天1-3硬币",
+      "summary": "受邀注册获取35硬币，可GPT-Image-2生图70次。签到额度较小，积少成多。"
     },
     {
       "name": "Tokeness",
@@ -78,15 +102,16 @@
       "rate": "0.1"
     },
     {
-      "name": "万象灵算",
-      "url": "https://wxls.ccwu.cc/sign-up?aff=Xpfi",
+      "name": "斑马API",
+      "url": "https://bmapi.020212.xyz/register?aff=SMTLY9LMHTFU",
       "tags": [
         "非DC",
-        "签到"
+        "签到",
+        "生图"
       ],
-      "checkin": "每日签到2刀",
-      "summary": "有GPT和Claude旗舰模型，倍率较高，适合备用。",
-      "rate": "2"
+      "checkin": "每日签到100积分（约60次API调用）",
+      "summary": "Claude Max和GPT Pro订阅，稳定靠谱，值得收藏。",
+      "rate": "1"
     },
     {
       "name": "Rua Chat",
@@ -102,6 +127,17 @@
       "notes": [
         "过于猛男，受不了的误入。"
       ]
+    },
+    {
+      "name": "万象灵算",
+      "url": "https://wxls.ccwu.cc/sign-up?aff=Xpfi",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日签到2刀",
+      "summary": "有GPT和Claude旗舰模型，倍率较高，适合备用。",
+      "rate": "2"
     },
     {
       "name": "Model Gate",
