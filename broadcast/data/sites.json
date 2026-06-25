@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-06-24"
+    "updatedAt": "2026-06-25"
   },
   "sites": [
     {
@@ -90,6 +90,17 @@
       "rate": "约0.06"
     },
     {
+      "name": "万象灵算",
+      "url": "https://wxls.ccwu.cc/sign-up?aff=Xpfi",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日签到2刀",
+      "summary": "有GPT和Claude旗舰模型，倍率较高，适合备用。",
+      "rate": "2"
+    },
+    {
       "name": "Guyscode",
       "url": "https://www.guyscode.com/register?aff=aYAY",
       "tags": [
@@ -127,17 +138,6 @@
       "notes": [
         "过于猛男，受不了的误入。"
       ]
-    },
-    {
-      "name": "万象灵算",
-      "url": "https://wxls.ccwu.cc/sign-up?aff=Xpfi",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "每日签到2刀",
-      "summary": "有GPT和Claude旗舰模型，倍率较高，适合备用。",
-      "rate": "2"
     },
     {
       "name": "free API",
