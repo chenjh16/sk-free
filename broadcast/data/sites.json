@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-06-25"
+    "updatedAt": "2026-06-26"
   },
   "sites": [
     {
@@ -20,6 +20,18 @@
       ]
     },
     {
+      "name": "Tokeness",
+      "url": "https://tokeness.io/sign-up?aff=kJht",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到 0.5 刀",
+      "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。",
+      "rate": "0.1"
+    },
+    {
       "name": "FreeModel",
       "url": "https://freemodel.dev/invite/FRE-9d95751a",
       "tags": [
@@ -29,19 +41,6 @@
       "rate": "1",
       "notes": [
         "同一IP限制仅一个账号访问，不适合批量注册，仅能到期再注册新号持续薅羊毛。"
-      ]
-    },
-    {
-      "name": "禾维 AI",
-      "url": "https://hvoy.ai/user/register?invite=HV3BPMJRWE",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "每日签到10积分",
-      "summary": "受邀请注册20积分，使用积分可以领取免费API Key",
-      "notes": [
-        "API Key有GPT旗舰模型，和种类丰富的开源模型"
       ]
     },
     {
@@ -66,16 +65,17 @@
       "summary": "受邀注册获取35硬币，可GPT-Image-2生图70次。签到额度较小，积少成多。"
     },
     {
-      "name": "Tokeness",
-      "url": "https://tokeness.io/sign-up?aff=kJht",
+      "name": "禾维 AI",
+      "url": "https://hvoy.ai/user/register?invite=HV3BPMJRWE",
       "tags": [
         "非DC",
-        "签到",
-        "生图"
+        "签到"
       ],
-      "checkin": "每日签到 0.5 刀",
-      "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。",
-      "rate": "0.1"
+      "checkin": "每日签到10积分",
+      "summary": "受邀请注册20积分，使用积分可以领取免费API Key",
+      "notes": [
+        "API Key有GPT旗舰模型，和种类丰富的开源模型"
+      ]
     },
     {
       "name": "BizDecipher",
@@ -101,16 +101,40 @@
       "rate": "2"
     },
     {
-      "name": "Guyscode",
-      "url": "https://www.guyscode.com/register?aff=aYAY",
+      "name": "登仙 API",
+      "url": "https://api.denxio.top/register?invite_code=HPKX9BY3VPXH",
       "tags": [
-        "非DC",
+        "半DC",
         "签到",
         "生图"
       ],
-      "checkin": "每日签到 2 刀（签到在仪表盘下翻）",
-      "summary": "需要代理访问。有GPT和Cluade旗舰模型，模型较多，可生图，适合作为通用备用。",
-      "rate": "0.1"
+      "checkin": "每日签到 3 刀",
+      "summary": "半 DC 系站点，日常签到额度明确，可生图。",
+      "rate": "0.2"
+    },
+    {
+      "name": "词元枢阁 Token Nexus",
+      "url": "https://api.aisz.mom/sign-up?aff=eYs4",
+      "tags": [
+        "非DC",
+        "生图"
+      ],
+      "summary": "长期稳定站点，长期免费chat模型 gpt/gemini/grok。",
+      "rate": "0.1",
+      "notes": [
+        "不定期免费，或超低倍率0.01活动。"
+      ]
+    },
+    {
+      "name": "Model Gate",
+      "url": "https://modelgate.app/register?aff=cAJg",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日签到 1 刀",
+      "summary": "长期稳定，适合长期收藏。",
+      "rate": "1"
     },
     {
       "name": "斑马API",
@@ -123,6 +147,18 @@
       "checkin": "每日签到100积分（约60次API调用）",
       "summary": "Claude Max和GPT Pro订阅，稳定靠谱，值得收藏。",
       "rate": "1"
+    },
+    {
+      "name": "Guyscode",
+      "url": "https://www.guyscode.com/register?aff=aYAY",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日签到 2 刀（签到在仪表盘下翻）",
+      "summary": "需要代理访问。有GPT和Cluade旗舰模型，模型较多，可生图，适合作为通用备用。",
+      "rate": "0.1"
     },
     {
       "name": "Rua Chat",
@@ -149,17 +185,6 @@
       "checkin": "每日签到 5-30 刀",
       "summary": "签到额度较高，适合持续关注。",
       "rate": "0.35"
-    },
-    {
-      "name": "Model Gate",
-      "url": "https://modelgate.app/register?aff=cAJg",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "每日签到 1 刀",
-      "summary": "长期稳定，适合长期收藏。",
-      "rate": "1"
     },
     {
       "name": "RouterTeam",
@@ -201,19 +226,6 @@
       "rate": "1",
       "notes": [
         "需要代理访问。注意，每日签到需要登出再重新登录。"
-      ]
-    },
-    {
-      "name": "词元枢阁 Token Nexus",
-      "url": "https://api.aisz.mom/sign-up?aff=eYs4",
-      "tags": [
-        "非DC",
-        "生图"
-      ],
-      "summary": "长期稳定站点，长期免费chat模型 gpt/gemini/grok。",
-      "rate": "0.1",
-      "notes": [
-        "不定期免费，或超低倍率0.01活动。"
       ]
     },
     {
@@ -345,18 +357,6 @@
       "notes": [
         "邀请口令当日有效（2026-06-23 记录）。"
       ]
-    },
-    {
-      "name": "登仙 API",
-      "url": "https://api.denxio.top/register?invite_code=HPKX9BY3VPXH",
-      "tags": [
-        "半DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "每日签到 3 刀",
-      "summary": "半 DC 系站点，日常签到额度明确，可生图。",
-      "rate": "0.2"
     },
     {
       "name": "CloseAPI",
