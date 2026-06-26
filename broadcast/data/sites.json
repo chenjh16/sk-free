@@ -5,6 +5,17 @@
   },
   "sites": [
     {
+      "name": "99code",
+      "url": "https://gpt.api456.me/?aff=BB3J",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "50算力",
+      "summary": "UI非常有特色的站，签到额度感觉还行，推荐！\n使用邀请码注册可以获得额外算力点：BB3J。"
+    },
+    {
       "name": "52模型",
       "url": "https://52mx.net/sign-up?aff=lz7E",
       "tags": [
@@ -30,6 +41,18 @@
       "checkin": "每日签到 0.5 刀",
       "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。",
       "rate": "0.1"
+    },
+    {
+      "name": "BingHeAPI",
+      "url": "https://api.aibinghe.xyz/register?aff=DCRBUYPTXY8Z",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "0.1-0.5刀",
+      "summary": "签到额度较少，积少成多备用吧...\n受邀请注册有1刀额外额度。",
+      "rate": "0.2"
     },
     {
       "name": "FreeModel",
