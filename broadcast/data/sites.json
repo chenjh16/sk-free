@@ -1,19 +1,22 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-06-26"
+    "updatedAt": "2026-06-27"
   },
   "sites": [
     {
-      "name": "99code",
+      "name": "Unity2.AI",
       "url": "https://gpt.api456.me/?aff=BB3J",
       "tags": [
         "非DC",
         "签到",
         "生图"
       ],
-      "checkin": "50算力",
-      "summary": "UI非常有特色的站，签到额度感觉还行，推荐！\n使用邀请码注册可以获得额外算力点：BB3J。"
+      "checkin": "2刀",
+      "summary": "注册获得10刀，有GPT-Image-2官方Key，可全功能图片生成，非常值得注册。",
+      "notes": [
+        "image2-官方Key 分组，倍率3"
+      ]
     },
     {
       "name": "52模型",
