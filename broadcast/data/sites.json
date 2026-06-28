@@ -13,10 +13,24 @@
         "生图"
       ],
       "checkin": "签到1-5积分",
-      "summary": "现在超稀有！非常推荐！点击链接打开Telegram，按照说明完成签到机器人指定流程，开启每日签到，每天1-5分，连续签到还有大额奖励积分。20积分可兑换Plus账号。可挂CPA、SUB2API提供本地API使用（也可以直接登录Codex使用，但非常不建议？）",
+      "summary": "现在超稀有！非常推荐！点击链接打开Telegram，按照说明完成签到机器人指定流程，开启每日签到，每天1-5分，连续签到还有大额奖励积分。20积分可兑换Plus账号。",
       "register": "Telegram",
       "notes": [
-        "官方Plus账号"
+        "官方Plus账号，可挂CPA、SUB2API提供本地API使用（也可以直接登录Codex使用，但非常不建议？）"
+      ]
+    },
+    {
+      "name": "Cavoti API",
+      "url": "https://cavoti.com/register?aff=XEJXH7ATP2BK",
+      "tags": [
+        "非DC",
+        "限免",
+        "生图"
+      ],
+      "checkin": "绑定X和Google免费",
+      "summary": "强烈推荐！绑定X和Google账号，可以永久免费领取Pro会员。有Claude Max和Codex Pro反代。",
+      "notes": [
+        "免费平台Pro订阅"
       ]
     },
     {
