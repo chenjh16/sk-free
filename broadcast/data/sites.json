@@ -78,6 +78,21 @@
       "rate": "0.1"
     },
     {
+      "name": "Future Hub",
+      "url": "https://api.futureppo.top/register?aff=teqN",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图",
+        "限免"
+      ],
+      "checkin": "每日签到 20 刀左右",
+      "summary": "免费公益站，大量开源旗舰模型限免，非常推荐。",
+      "register": "GitHub、edu.cn 邮箱、Linux Do",
+      "models": "免费：GLM 5.1、Qwen3.7 Max、Kimi K2.6、MiniMax M3",
+      "rate": "1"
+    },
+    {
       "name": "BingHeAPI",
       "url": "https://api.aibinghe.xyz/register?aff=DCRBUYPTXY8Z",
       "tags": [
@@ -345,19 +360,6 @@
       "checkin": "每日签到10-20元",
       "summary": "模型很全，但基础价格超高，签到蚊子腿。不过持续稳定，适合长期备用。",
       "rate": "1（基础价格超高）"
-    },
-    {
-      "name": "Future Hub",
-      "url": "https://api.futureppo.top/register?aff=teqN",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "每日签到 20 刀左右",
-      "summary": "免费公益站",
-      "register": "GitHub、edu.cn 邮箱、Linux Do",
-      "rate": "1"
     },
     {
       "name": "DGB 公益站",
