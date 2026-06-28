@@ -1,21 +1,22 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-06-27"
+    "updatedAt": "2026-06-28"
   },
   "sites": [
     {
-      "name": "Unity2.AI",
-      "url": "https://gpt.api456.me/?aff=BB3J",
+      "name": "公益Plus机器人",
+      "url": "https://t.me/freexzteam_bot?start=inv_8095372593",
       "tags": [
         "非DC",
         "签到",
         "生图"
       ],
-      "checkin": "2刀",
-      "summary": "注册获得10刀，有GPT-Image-2官方Key，可全功能图片生成，非常值得注册。",
+      "checkin": "签到1-5积分",
+      "summary": "现在超稀有！非常推荐！点击链接打开Telegram，按照说明完成签到机器人指定流程，开启每日签到，每天1-5分，连续签到还有大额奖励积分。20积分可兑换Plus账号。可挂CPA、SUB2API提供本地API使用（也可以直接登录Codex使用，但非常不建议？）",
+      "register": "Telegram",
       "notes": [
-        "image2-官方Key 分组，倍率3"
+        "官方Plus账号"
       ]
     },
     {
