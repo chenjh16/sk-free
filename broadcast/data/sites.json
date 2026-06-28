@@ -57,7 +57,8 @@
         "限免"
       ],
       "checkin": "签到1-2刀（相对于模型价格算比较大）",
-      "summary": "DeepSeek V4 Pro、GLM-5.1、Kimi-K2.6、Minimax-M3、Qwen3.6等模型限免。付费主力模型为Cluade旗舰，$7.5/1M输出。签到用量尚可，推荐。",
+      "summary": "有很多开源模型限免。付费主力模型为Cluade旗舰，$7.5/1M输出。签到用量尚可，推荐。",
+      "models": "免费：Kimi-K2.6、Minimax-M2.7、DeepSeek V4 Flash",
       "notes": [
         "可能有封号风险，需要购买1元永久保号套餐。"
       ]
@@ -68,10 +69,12 @@
       "tags": [
         "非DC",
         "签到",
-        "生图"
+        "生图",
+        "限免"
       ],
       "checkin": "每日签到 0.5 刀",
       "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。",
+      "models": "免费：deepseek-v4-flash",
       "rate": "0.1"
     },
     {
@@ -90,7 +93,8 @@
       "name": "FreeModel",
       "url": "https://freemodel.dev/invite/FRE-9d95751a",
       "tags": [
-        "非DC"
+        "非DC",
+        "生图"
       ],
       "summary": "注册即可获取 Pro 套餐一个月，五小时 10 刀，累计约 250 刀。",
       "rate": "1",
@@ -106,7 +110,8 @@
         "生图",
         "限免"
       ],
-      "summary": "DeepSeek V4 Flash 限时免费。"
+      "summary": "DeepSeek V4 Flash 长期限时免费。有GPT和Claude旗舰模型。",
+      "models": "免费：DeepSeek V4 Flash"
     },
     {
       "name": "可萌中转站",
@@ -294,6 +299,14 @@
       "summary": "不是模型中转站，但是可以获取免费二级域名，受邀请注册获得30积分。"
     },
     {
+      "name": "localhost.cc",
+      "url": "https://localhost.cc/invite/yjgrz",
+      "tags": [
+        "域名"
+      ],
+      "summary": "不是中转站，受邀注册获得20积分，可以注册两个二级域名"
+    },
+    {
       "name": "聚合api",
       "url": "https://aiyiwei.vip/register?aff=8PHJ",
       "tags": [
@@ -320,14 +333,6 @@
       "notes": [
         "免费deepseek-v4-flash/pro-free、minimax-m3、mimo-v2.5、qwen3.6-plus等等，0.001每次claude-opus-4-8-free，0.002每次glm-5.2-free"
       ]
-    },
-    {
-      "name": "localhost.cc",
-      "url": "https://localhost.cc/invite/yjgrz",
-      "tags": [
-        "域名"
-      ],
-      "summary": "不是中转站，受邀注册获得20积分，可以注册两个二级域名"
     },
     {
       "name": "哈基米API站",
