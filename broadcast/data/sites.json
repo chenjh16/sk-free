@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-06-28"
+    "updatedAt": "2026-06-29"
   },
   "sites": [
     {
@@ -45,6 +45,21 @@
       "summary": "受邀注册赠送100刀，有GPT和Claude旗舰模型，cc、pro、kiro反代。",
       "notes": [
         "但是倍率爆表..."
+      ]
+    },
+    {
+      "name": "星见雅API",
+      "url": "https://new.xinjianya.top/register?aff=o8FY",
+      "tags": [
+        "非DC",
+        "签到",
+        "限免"
+      ],
+      "checkin": "50-100代币",
+      "summary": "【推荐】受邀注册获得100代币，模型价格非常便宜，10代币/M Token，基本等于免费。",
+      "models": "GLM 5.1，Kimi K2.6，MiniMax系列，MIMO系列",
+      "notes": [
+        "等价于免费，故添加【限免】标签"
       ]
     },
     {
