@@ -1,9 +1,19 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-06-30"
+    "updatedAt": "2026-07-01"
   },
   "sites": [
+    {
+      "name": "chatgpt2api",
+      "url": "https://github.com/chenjh16/chatgpt2api",
+      "tags": [
+        "非DC",
+        "生图",
+        "账号"
+      ],
+      "summary": "神仙开源项目，注册机全自动注册，实现GPT-Image-2生图自由，以及chat、其他skill自由。直接给链接，让Codex在本地部署即可，有云服务器更佳。\n代理端口可以使用本地Clash的代理端口，服务器上也可以部署mihomo代理，海外云服务器更佳，无需代理。\n邮箱可以使用：https://tempmail.lol/en/（可以成功批量注册账号，不过貌似被封的有点快？）"
+    },
     {
       "name": "公益Plus机器人",
       "url": "https://t.me/freexzteam_bot?start=inv_8095372593",
