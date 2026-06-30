@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-06-29"
+    "updatedAt": "2026-06-30"
   },
   "sites": [
     {
@@ -18,6 +18,18 @@
       "notes": [
         "官方Plus账号，可挂CPA、SUB2API提供本地API使用（也可以直接登录Codex使用，但非常不建议？）"
       ]
+    },
+    {
+      "name": "Xiaomu API",
+      "url": "https://xiaomuai.cn/register?aff=UqqO",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "0.5-2刀",
+      "summary": "【仪表盘】页底部签到，有GPT和Claude旗舰模型",
+      "rate": "综合倍率约0.1"
     },
     {
       "name": "Cavoti API",
