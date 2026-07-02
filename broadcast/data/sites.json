@@ -1,9 +1,24 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-07-01"
+    "updatedAt": "2026-07-02"
   },
   "sites": [
+    {
+      "name": "CodexCN",
+      "url": "https://codexcn.top/register?aff=Rwyp",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "每日抽奖均值10刀",
+      "summary": "有GPT和Claude旗舰模型，以及大量开源模型，推荐！",
+      "rate": "1",
+      "notes": [
+        "助力转盘页抽检，每日1次，有10、100、300刀、谢谢参与几种。"
+      ]
+    },
     {
       "name": "chatgpt2api",
       "url": "https://github.com/chenjh16/chatgpt2api",
