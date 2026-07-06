@@ -1,9 +1,23 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-07-04"
+    "updatedAt": "2026-07-06"
   },
   "sites": [
+    {
+      "name": "LUNA",
+      "url": "https://luna-ai.shop/register?aff=76VJTB5X3MPM",
+      "tags": [
+        "非DC",
+        "限免",
+        "生图",
+        "交易"
+      ],
+      "summary": "非常推荐！目前站长提供了限免账号。而且可以私用/共享自己的闲置账号，很有意思的站点，可以试试。",
+      "notes": [
+        "可以配合后面的telegram签到机器人兑换账号进行共享/私用，而无需自己搭建中转。"
+      ]
+    },
     {
       "name": "BOTCF",
       "url": "https://botcf.com/register?aff=6EEl",
@@ -21,6 +35,21 @@
         "限免"
       ],
       "summary": "阶跃星辰Token Plan免费领取，有阶跃的旗舰模型，适合跑Claw。还有额外的100元API兑换码，先到先得：xNpKgNtEABfxEkdMBVKT"
+    },
+    {
+      "name": "公益Plus机器人",
+      "url": "https://t.me/freexzteam_bot?start=inv_8095372593",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "签到1-5积分",
+      "summary": "现在超稀有！非常推荐！点击链接打开Telegram，按照说明完成签到机器人指定流程，开启每日签到，每天1-5分，连续签到还有大额奖励积分。20积分可兑换Plus账号。",
+      "register": "Telegram",
+      "notes": [
+        "官方Plus账号，可挂CPA、SUB2API提供本地API使用（也可以直接登录Codex使用，但非常不建议？）"
+      ]
     },
     {
       "name": "CodexCN",
@@ -46,21 +75,6 @@
         "账号"
       ],
       "summary": "神仙开源项目，注册机全自动注册，实现GPT-Image-2生图自由，以及chat、其他skill自由。直接给链接，让Codex在本地部署即可，有云服务器更佳。\n代理端口可以使用本地Clash的代理端口，服务器上也可以部署mihomo代理，海外云服务器更佳，无需代理。\n邮箱可以使用：https://tempmail.lol/en/（可以成功批量注册账号，不过貌似被封的有点快？）"
-    },
-    {
-      "name": "公益Plus机器人",
-      "url": "https://t.me/freexzteam_bot?start=inv_8095372593",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "签到1-5积分",
-      "summary": "现在超稀有！非常推荐！点击链接打开Telegram，按照说明完成签到机器人指定流程，开启每日签到，每天1-5分，连续签到还有大额奖励积分。20积分可兑换Plus账号。",
-      "register": "Telegram",
-      "notes": [
-        "官方Plus账号，可挂CPA、SUB2API提供本地API使用（也可以直接登录Codex使用，但非常不建议？）"
-      ]
     },
     {
       "name": "Xiaomu API",
