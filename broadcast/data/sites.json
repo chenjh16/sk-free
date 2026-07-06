@@ -15,7 +15,34 @@
       ],
       "summary": "非常推荐！目前站长提供了限免账号。而且可以私用/共享自己的闲置账号，很有意思的站点，可以试试。",
       "notes": [
-        "可以配合后面的telegram签到机器人兑换账号进行共享/私用，而无需自己搭建中转。"
+        "可以配合后面的telegram机器人兑换账号进行共享/私用，而无需自己搭建中转。"
+      ]
+    },
+    {
+      "name": "BUG TEAM公益机器人",
+      "url": "https://t.me/kiropro_bot?start=inv_8095372593",
+      "tags": [
+        "非DC",
+        "账号"
+      ],
+      "summary": "推荐！关注机器人，可以免费领取GPT BUG TEAM账号。可以直接导入sub2api中使用，或者导入前面的LUNA站作为私用/共享。",
+      "notes": [
+        "【账号管理】-【更多操作】-【导入】- 选择json文件。"
+      ]
+    },
+    {
+      "name": "公益Plus机器人",
+      "url": "https://t.me/freexzteam_bot?start=inv_8095372593",
+      "tags": [
+        "非DC",
+        "签到",
+        "账号"
+      ],
+      "checkin": "签到1-5积分",
+      "summary": "现在超稀有！非常推荐！点击链接打开Telegram，按照说明完成签到机器人指定流程，开启每日签到，每天1-5分，连续签到还有大额奖励积分。20积分可兑换Plus账号。",
+      "register": "Telegram",
+      "notes": [
+        "官方Plus账号，可挂CPA、SUB2API提供本地API使用（也可以直接登录Codex使用，但非常不建议？）"
       ]
     },
     {
@@ -35,21 +62,6 @@
         "限免"
       ],
       "summary": "阶跃星辰Token Plan免费领取，有阶跃的旗舰模型，适合跑Claw。还有额外的100元API兑换码，先到先得：xNpKgNtEABfxEkdMBVKT"
-    },
-    {
-      "name": "公益Plus机器人",
-      "url": "https://t.me/freexzteam_bot?start=inv_8095372593",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "签到1-5积分",
-      "summary": "现在超稀有！非常推荐！点击链接打开Telegram，按照说明完成签到机器人指定流程，开启每日签到，每天1-5分，连续签到还有大额奖励积分。20积分可兑换Plus账号。",
-      "register": "Telegram",
-      "notes": [
-        "官方Plus账号，可挂CPA、SUB2API提供本地API使用（也可以直接登录Codex使用，但非常不建议？）"
-      ]
     },
     {
       "name": "CodexCN",
