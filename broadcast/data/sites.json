@@ -57,26 +57,16 @@
       "summary": "强烈推荐！GPT模型全部免费！\n免费分组：\n【😭这集神了:k12零元购仅限codex内使用】"
     },
     {
-      "name": "阶跃星辰",
-      "url": "https://platform.stepfun.com/?invite_code=XFTKOWML",
+      "name": "Xiaomu API",
+      "url": "https://xiaomuai.cn/register?aff=UqqO",
       "tags": [
         "非DC",
-        "限免"
-      ],
-      "summary": "阶跃星辰Token Plan免费领取，有阶跃的旗舰模型，适合跑Claw。还有额外的100元API兑换码，先到先得：xNpKgNtEABfxEkdMBVKT"
-    },
-    {
-      "name": "CodexCN",
-      "url": "https://codexcn.top/register?aff=Rwyp",
-      "tags": [
-        "非DC",
+        "签到",
         "生图"
       ],
-      "summary": "有GPT和Claude旗舰模型，以及大量开源模型。",
-      "rate": "1",
-      "notes": [
-        "助力转盘页抽奖，有10、100、300刀、谢谢参与几种。现在好像只能抽1次了。"
-      ]
+      "checkin": "0.5-2刀",
+      "summary": "【仪表盘】页底部签到，有GPT和Claude旗舰模型",
+      "rate": "综合倍率约0.1"
     },
     {
       "name": "chatgpt2api",
@@ -89,16 +79,18 @@
       "summary": "神仙开源项目，注册机全自动注册，实现GPT-Image-2生图自由，以及chat、其他skill自由。直接给链接，让Codex在本地部署即可，有云服务器更佳。\n代理端口可以使用本地Clash的代理端口，服务器上也可以部署mihomo代理，海外云服务器更佳，无需代理。\n邮箱可以使用：https://tempmail.lol/en/（可以成功批量注册账号，不过貌似被封的有点快？）"
     },
     {
-      "name": "Xiaomu API",
-      "url": "https://xiaomuai.cn/register?aff=UqqO",
+      "name": "Tokeness",
+      "url": "https://tokeness.io/sign-up?aff=kJht",
       "tags": [
         "非DC",
         "签到",
-        "生图"
+        "生图",
+        "限免"
       ],
-      "checkin": "0.5-2刀",
-      "summary": "【仪表盘】页底部签到，有GPT和Claude旗舰模型",
-      "rate": "综合倍率约0.1"
+      "checkin": "每日签到 0.5 刀",
+      "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。",
+      "models": "免费：deepseek-v4-flash",
+      "rate": "0.1"
     },
     {
       "name": "Cavoti API",
@@ -126,6 +118,19 @@
       "summary": "受邀注册赠送100刀，有GPT和Claude旗舰模型，cc、pro、kiro反代。",
       "notes": [
         "但是倍率爆表..."
+      ]
+    },
+    {
+      "name": "CodexCN",
+      "url": "https://codexcn.top/register?aff=Rwyp",
+      "tags": [
+        "非DC",
+        "生图"
+      ],
+      "summary": "有GPT和Claude旗舰模型，以及大量开源模型。",
+      "rate": "1",
+      "notes": [
+        "助力转盘页抽奖，有10、100、300刀、谢谢参与几种。现在好像只能抽1次了。"
       ]
     },
     {
@@ -169,20 +174,6 @@
       "notes": [
         "可能有封号风险，需要购买1元永久保号套餐。"
       ]
-    },
-    {
-      "name": "Tokeness",
-      "url": "https://tokeness.io/sign-up?aff=kJht",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图",
-        "限免"
-      ],
-      "checkin": "每日签到 0.5 刀",
-      "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。",
-      "models": "免费：deepseek-v4-flash",
-      "rate": "0.1"
     },
     {
       "name": "Future Hub",
