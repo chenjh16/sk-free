@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-07-08"
+    "updatedAt": "2026-07-09"
   },
   "sites": [
     {
@@ -48,35 +48,34 @@
       ]
     },
     {
-      "name": "BOTCF",
-      "url": "https://botcf.com/register?aff=6EEl",
+      "name": "AgentRouter",
+      "url": "https://agentrouter.org/register?aff=l1gl",
       "tags": [
         "非DC",
-        "限免"
+        "签到"
       ],
-      "summary": "强烈推荐！GPT模型全部免费！\n免费分组：\n【😭这集神了:k12零元购仅限codex内使用】"
+      "checkin": "每日 25 刀（需要登出再登录）",
+      "summary": "【强烈推荐】老站恢复，Anthropic API 格式可用。受邀注册 100 刀。",
+      "register": "GitHub",
+      "rate": "1",
+      "notes": [
+        "需要代理访问。注意，每日签到需要登出再重新登录。"
+      ]
     },
     {
-      "name": "Xiaomu API",
-      "url": "https://xiaomuai.cn/register?aff=UqqO",
+      "name": "AnyRouter",
+      "url": "https://anyrouter.top/register?aff=oTHk",
       "tags": [
         "非DC",
-        "签到",
-        "生图"
+        "签到"
       ],
-      "checkin": "0.5-2刀",
-      "summary": "【仪表盘】页底部签到，有GPT和Claude旗舰模型",
-      "rate": "综合倍率约0.1"
-    },
-    {
-      "name": "chatgpt2api",
-      "url": "https://github.com/chenjh16/chatgpt2api",
-      "tags": [
-        "非DC",
-        "生图",
-        "账号"
-      ],
-      "summary": "神仙开源项目，注册机全自动注册，实现GPT-Image-2生图自由，以及chat、其他skill自由。直接给链接，让Codex在本地部署即可，有云服务器更佳。\n代理端口可以使用本地Clash的代理端口，服务器上也可以部署mihomo代理，海外云服务器更佳，无需代理。\n邮箱可以使用：https://tempmail.lol/en/（可以成功批量注册账号，不过貌似被封的有点快？）"
+      "checkin": "每日登录 25 刀",
+      "summary": "【强烈推荐】靠谱老站，不拥挤时适合日常使用。受邀注册50刀。需要代理访问，据说直接对接OpenRouter官方API，过于财大气粗了。",
+      "register": "Linux.do",
+      "rate": "1",
+      "notes": [
+        "推荐注册路径：5年Github账号，https://invite.linuxdo.org，注册Linux.do，再走邀请链接，登录Anyrouter。"
+      ]
     },
     {
       "name": "Tokeness",
@@ -93,6 +92,18 @@
       "rate": "0.1"
     },
     {
+      "name": "Xiaomu API",
+      "url": "https://xiaomuai.cn/register?aff=UqqO",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "0.5-2刀",
+      "summary": "【仪表盘】页底部签到，有GPT和Claude旗舰模型",
+      "rate": "综合倍率约0.1"
+    },
+    {
       "name": "Cavoti API",
       "url": "https://cavoti.com/register?aff=XEJXH7ATP2BK",
       "tags": [
@@ -105,6 +116,25 @@
       "notes": [
         "免费平台Pro订阅"
       ]
+    },
+    {
+      "name": "chatgpt2api",
+      "url": "https://github.com/chenjh16/chatgpt2api",
+      "tags": [
+        "非DC",
+        "生图",
+        "账号"
+      ],
+      "summary": "神仙开源项目，注册机全自动注册，实现GPT-Image-2生图自由，以及chat、其他skill自由。直接给链接，让Codex在本地部署即可，有云服务器更佳。\n代理端口可以使用本地Clash的代理端口，服务器上也可以部署mihomo代理，海外云服务器更佳，无需代理。\n邮箱可以使用：https://tempmail.lol/en/（可以成功批量注册账号，不过貌似被封的有点快？）"
+    },
+    {
+      "name": "BOTCF",
+      "url": "https://botcf.com/register?aff=6EEl",
+      "tags": [
+        "非DC",
+        "限免"
+      ],
+      "summary": "强烈推荐！GPT模型全部免费！\n免费分组：\n【😭这集神了:k12零元购仅限codex内使用】"
     },
     {
       "name": "DoCode",
@@ -370,36 +400,6 @@
       "checkin": "每日签到 3 刀",
       "summary": "可生图，倍率略高，连续签到有额外奖励，适合作为备用。",
       "rate": "1.5"
-    },
-    {
-      "name": "AnyRouter",
-      "url": "https://anyrouter.top/register?aff=oTHk",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "每日登录 25 刀",
-      "summary": "靠谱老站，不拥挤时适合日常使用。受邀注册50刀。需要代理访问，据说直接对接OpenRouter官方API，过于财大气粗了。",
-      "register": "Linux.do",
-      "rate": "1",
-      "notes": [
-        "推荐注册路径：5年Github账号，https://invite.linuxdo.org，注册Linux.do，再走邀请链接，登录Anyrouter。"
-      ]
-    },
-    {
-      "name": "AgentRouter",
-      "url": "https://agentrouter.org/register?aff=l1gl",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "每日 25 刀（需要登出再登录）",
-      "summary": "老站恢复，Anthropic API 格式可用。受邀注册 100 刀。",
-      "register": "GitHub",
-      "rate": "1",
-      "notes": [
-        "需要代理访问。注意，每日签到需要登出再重新登录。"
-      ]
     },
     {
       "name": "Gleam免费二级域名",
