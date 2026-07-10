@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-07-09"
+    "updatedAt": "2026-07-10"
   },
   "sites": [
     {
@@ -90,6 +90,16 @@
       "summary": "非 DC 站，稳定可用，可生图。tokeness/free 可免费使用 deepseek-v4-flash。",
       "models": "免费：deepseek-v4-flash",
       "rate": "0.1"
+    },
+    {
+      "name": "0DAI",
+      "url": "https://ai.0d0d.top/register?ref=uiye1wva",
+      "tags": [
+        "非DC"
+      ],
+      "summary": "不定期发放额度券，开源模型可用性很好。\nmimo-v2.5\t\nnorth-mini-code\nminimax-m2.7\nqwen3.5\ngpt-oss\nkimi-k2.6\ndeepseek-v4-flash",
+      "models": "开源模型",
+      "rate": "1"
     },
     {
       "name": "Xiaomu API",
