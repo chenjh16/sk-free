@@ -20,19 +20,46 @@
       ]
     },
     {
-      "name": "LUNA",
-      "url": "https://luna-ai.shop/register?aff=76VJTB5X3MPM",
+      "name": "AgentRouter",
+      "url": "https://agentrouter.org/register?aff=l1gl",
       "tags": [
         "非DC",
-        "限免",
-        "生图",
-        "交易"
+        "签到"
       ],
-      "summary": "非常推荐！目前站长提供了限免账号。而且可以私用/共享自己的闲置账号，很有意思的站点，可以试试。",
+      "checkin": "每日 25 刀（需要登出再登录）",
+      "summary": "【强烈推荐】老站恢复，Anthropic API 格式可用。受邀注册 100 刀。",
+      "register": "GitHub",
+      "rate": "1",
       "notes": [
-        "【兑换】输入【感谢管理小哥】获得88代币测试额度。",
-        "可以配合后面的telegram机器人兑换账号进行共享/私用，而无需自己搭建中转。"
+        "需要代理访问。注意，每日签到需要登出再重新登录。"
       ]
+    },
+    {
+      "name": "AnyRouter",
+      "url": "https://anyrouter.top/register?aff=oTHk",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日登录 25 刀",
+      "summary": "【强烈推荐】靠谱老站，不拥挤时适合日常使用。受邀注册50刀。需要代理访问，据说直接对接OpenRouter官方API，过于财大气粗了。",
+      "register": "Linux.do",
+      "rate": "1",
+      "notes": [
+        "推荐注册路径：5年Github账号，https://invite.linuxdo.org，注册Linux.do，再走邀请链接，登录Anyrouter。"
+      ]
+    },
+    {
+      "name": "Kiro签到机器人",
+      "url": "https://t.me/buykirogpt_bot?start=inv_8095372593",
+      "tags": [
+        "非DC",
+        "账号",
+        "签到"
+      ],
+      "checkin": "1积分",
+      "summary": "每天签到获得1积分，7积分可兑换Kiro账号，反代用opus模型。",
+      "register": "Telegram"
     },
     {
       "name": "BUG TEAM机器人",
@@ -63,33 +90,18 @@
       ]
     },
     {
-      "name": "AgentRouter",
-      "url": "https://agentrouter.org/register?aff=l1gl",
+      "name": "LUNA",
+      "url": "https://luna-ai.shop/register?aff=76VJTB5X3MPM",
       "tags": [
         "非DC",
-        "签到"
+        "限免",
+        "生图",
+        "交易"
       ],
-      "checkin": "每日 25 刀（需要登出再登录）",
-      "summary": "【强烈推荐】老站恢复，Anthropic API 格式可用。受邀注册 100 刀。",
-      "register": "GitHub",
-      "rate": "1",
+      "summary": "非常推荐！目前站长提供了限免账号。而且可以私用/共享自己的闲置账号，很有意思的站点，可以试试。",
       "notes": [
-        "需要代理访问。注意，每日签到需要登出再重新登录。"
-      ]
-    },
-    {
-      "name": "AnyRouter",
-      "url": "https://anyrouter.top/register?aff=oTHk",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "每日登录 25 刀",
-      "summary": "【强烈推荐】靠谱老站，不拥挤时适合日常使用。受邀注册50刀。需要代理访问，据说直接对接OpenRouter官方API，过于财大气粗了。",
-      "register": "Linux.do",
-      "rate": "1",
-      "notes": [
-        "推荐注册路径：5年Github账号，https://invite.linuxdo.org，注册Linux.do，再走邀请链接，登录Anyrouter。"
+        "【兑换】输入【感谢管理小哥】获得88代币测试额度。",
+        "可以配合后面的telegram机器人兑换账号进行共享/私用，而无需自己搭建中转。"
       ]
     },
     {
