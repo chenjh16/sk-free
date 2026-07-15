@@ -1,9 +1,23 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-07-12"
+    "updatedAt": "2026-07-15"
   },
   "sites": [
+    {
+      "name": "DoCode",
+      "url": "https://docode.cc/register?aff=MGqq",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图"
+      ],
+      "checkin": "5-10刀（但是倍率爆表）",
+      "summary": "受邀注册赠送100刀，有GPT和Claude旗舰模型，cc、pro、kiro反代。",
+      "notes": [
+        "但是倍率爆表..."
+      ]
+    },
     {
       "name": "JiuYouMao",
       "url": "https://www.bigmodel.tech/sign-up?aff=RoSA",
@@ -172,20 +186,6 @@
         "限免"
       ],
       "summary": "强烈推荐！GPT模型全部免费！\n免费分组：\n【😭这集神了:k12零元购仅限codex内使用】\n嘤嘤嘤，没有免费了。"
-    },
-    {
-      "name": "DoCode",
-      "url": "https://docode.cc/register?aff=MGqq",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图"
-      ],
-      "checkin": "5-10刀（但是倍率爆表）",
-      "summary": "受邀注册赠送100刀，有GPT和Claude旗舰模型，cc、pro、kiro反代。",
-      "notes": [
-        "但是倍率爆表..."
-      ]
     },
     {
       "name": "CodexCN",
