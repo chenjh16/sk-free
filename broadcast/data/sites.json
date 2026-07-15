@@ -5,6 +5,16 @@
   },
   "sites": [
     {
+      "name": "蟹蟹API",
+      "url": "https://newapi.nexusvai.xyz/sign-up?aff=oAgX",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "20代币",
+      "summary": "中转站也有期货，模型明天上，期站！期站！每日签到20代币。"
+    },
+    {
       "name": "DoCode",
       "url": "https://docode.cc/register?aff=MGqq",
       "tags": [
@@ -32,6 +42,16 @@
       "notes": [
         "推荐加群：464221904"
       ]
+    },
+    {
+      "name": "AIAIAI工具箱",
+      "url": "https://api.aiaiai001.com/sign-up?aff=ydYF",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "0.5",
+      "summary": "中规中矩，模型挺全的。"
     },
     {
       "name": "AgentRouter",
