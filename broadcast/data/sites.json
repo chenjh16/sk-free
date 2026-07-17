@@ -1,9 +1,20 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-07-15"
+    "updatedAt": "2026-07-18"
   },
   "sites": [
+    {
+      "name": "Universe Federation",
+      "url": "https://api.wapq.cn/register?aff=9k5w",
+      "tags": [
+        "半DC",
+        "签到"
+      ],
+      "checkin": "每日签到 2-10 刀",
+      "summary": "非常推荐，GPT5.6比较稳，签到额度也比较稳，倍率不错。",
+      "rate": "0.2"
+    },
     {
       "name": "蟹蟹API",
       "url": "https://newapi.nexusvai.xyz/sign-up?aff=oAgX",
@@ -654,17 +665,6 @@
       ],
       "checkin": "每日签到 2-5 刀",
       "summary": "DC 系站点，签到额度稳定。",
-      "rate": "0.1"
-    },
-    {
-      "name": "Universe Federation公益",
-      "url": "https://api.wapq.cn/register?aff=9k5w",
-      "tags": [
-        "DC系",
-        "签到"
-      ],
-      "checkin": "每日签到 2-10 刀",
-      "summary": "DC 系公益站，签到额度区间较宽。",
       "rate": "0.1"
     },
     {
