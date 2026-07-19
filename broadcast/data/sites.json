@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-07-18"
+    "updatedAt": "2026-07-19"
   },
   "sites": [
     {
@@ -40,6 +40,19 @@
       ]
     },
     {
+      "name": "0DAI",
+      "url": "https://ai.0d0d.top/register?ref=uiye1wva",
+      "tags": [
+        "非DC"
+      ],
+      "summary": "不定期发放额度券，开源模型可用性很好。\nmimo-v2.5\t\nnorth-mini-code\nminimax-m2.7\nqwen3.5\ngpt-oss\nkimi-k2.6\ndeepseek-v4-flash",
+      "models": "开源模型",
+      "rate": "1",
+      "notes": [
+        "28元兑换码：L4EAVCEP4R42XW7W"
+      ]
+    },
+    {
       "name": "JiuYouMao",
       "url": "https://www.bigmodel.tech/sign-up?aff=RoSA",
       "tags": [
@@ -52,19 +65,6 @@
       "rate": "0.01",
       "notes": [
         "推荐加群：464221904"
-      ]
-    },
-    {
-      "name": "0DAI",
-      "url": "https://ai.0d0d.top/register?ref=uiye1wva",
-      "tags": [
-        "非DC"
-      ],
-      "summary": "不定期发放额度券，开源模型可用性很好。\nmimo-v2.5\t\nnorth-mini-code\nminimax-m2.7\nqwen3.5\ngpt-oss\nkimi-k2.6\ndeepseek-v4-flash",
-      "models": "开源模型",
-      "rate": "1",
-      "notes": [
-        "28元兑换码：L4EAVCEP4R42XW7W"
       ]
     },
     {
@@ -108,6 +108,21 @@
       ]
     },
     {
+      "name": "公益Plus机器人",
+      "url": "https://t.me/freexzteam_bot?start=inv_8095372593",
+      "tags": [
+        "非DC",
+        "签到",
+        "账号"
+      ],
+      "checkin": "签到1-5积分",
+      "summary": "现在超稀有！非常推荐！点击链接打开Telegram，按照说明完成签到机器人指定流程，开启每日签到，每天1-5分，连续签到还有大额奖励积分。5积分可兑换Plus账号。",
+      "register": "Telegram",
+      "notes": [
+        "官方Plus账号，可挂CPA、SUB2API提供本地API使用（也可以直接登录Codex使用，但非常不建议？）"
+      ]
+    },
+    {
       "name": "Kiro签到机器人",
       "url": "https://t.me/buykirogpt_bot?start=inv_8095372593",
       "tags": [
@@ -130,21 +145,6 @@
       "notes": [
         "【兑换商城】-【bug team...】- 获得一个json",
         "【账号管理】-【更多操作】-【导入】- 选择json文件。"
-      ]
-    },
-    {
-      "name": "公益Plus机器人",
-      "url": "https://t.me/freexzteam_bot?start=inv_8095372593",
-      "tags": [
-        "非DC",
-        "签到",
-        "账号"
-      ],
-      "checkin": "签到1-5积分",
-      "summary": "现在超稀有！非常推荐！点击链接打开Telegram，按照说明完成签到机器人指定流程，开启每日签到，每天1-5分，连续签到还有大额奖励积分。20积分可兑换Plus账号。",
-      "register": "Telegram",
-      "notes": [
-        "官方Plus账号，可挂CPA、SUB2API提供本地API使用（也可以直接登录Codex使用，但非常不建议？）"
       ]
     },
     {
