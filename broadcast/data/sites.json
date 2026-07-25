@@ -1,9 +1,24 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-07-19"
+    "updatedAt": "2026-07-26"
   },
   "sites": [
+    {
+      "name": "CaMeL Al",
+      "url": "https://api.camel-hub.com/register?aff=vERp",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图",
+        "限免"
+      ],
+      "checkin": "0.5-1刀",
+      "summary": "受邀注册有额外奖励。模型很全，有免费使用的Chat类Agent工具，免费使用Fable5、GPT-5.6、GPT-Image-2等模型。比较推荐。",
+      "notes": [
+        "https://chat.camel-hub.com/chat"
+      ]
+    },
     {
       "name": "Universe Federation",
       "url": "https://api.wapq.cn/register?aff=9k5w",
