@@ -1,9 +1,23 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-07-26"
+    "updatedAt": "2026-07-27"
   },
   "sites": [
+    {
+      "name": "JiuRelay",
+      "url": "https://jiurelay.com/r/JR-XGWUSD",
+      "tags": [
+        "非DC",
+        "限免"
+      ],
+      "checkin": "免费",
+      "summary": "无需登录，即可领取3小时免费Key，推荐！",
+      "models": "GLM、Claude、Grok",
+      "notes": [
+        "每天限领 1 次 · 00:00 刷新（北京时间）"
+      ]
+    },
     {
       "name": "CaMeL Al",
       "url": "https://api.camel-hub.com/register?aff=vERp",
