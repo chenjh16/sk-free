@@ -1,9 +1,22 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-07-27"
+    "updatedAt": "2026-07-28"
   },
   "sites": [
+    {
+      "name": "GoRouter",
+      "url": "https://gorouter.app/sign-up?aff=bt9W",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "10-20刀",
+      "summary": "公益站，受邀注册70刀，按次计费，Opus-5 0.1刀每次。",
+      "register": "Github",
+      "models": "Claude",
+      "rate": "按次"
+    },
     {
       "name": "JiuRelay",
       "url": "https://jiurelay.com/r/JR-XGWUSD",
