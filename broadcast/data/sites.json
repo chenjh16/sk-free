@@ -1,9 +1,38 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-08-13"
+    "updatedAt": "2026-08-21"
   },
   "sites": [
+    {
+      "name": "huihuiyun",
+      "url": "https://api.huihuiyun.top/register?aff=JF39SSVLG755",
+      "tags": [
+        "非DC",
+        "限免",
+        "按次"
+      ],
+      "checkin": "限免",
+      "summary": "免费deepseek-v4-flash、glm-5.2（限制thinking effort到中等），满血上下文，非常推荐！还有【1r包天自助餐--deepseekv4+glm5.2+minimaxm3】",
+      "notes": [
+        "GPT、Gemini、Grok模型按次计费，最低0.01每次。"
+      ]
+    },
+    {
+      "name": "CaMeL Al",
+      "url": "https://api.camel-hub.com/register?aff=vERp",
+      "tags": [
+        "非DC",
+        "签到",
+        "生图",
+        "限免"
+      ],
+      "checkin": "0.5-1刀",
+      "summary": "受邀注册有额外奖励。模型很全，有免费使用的Chat类Agent工具，免费使用Fable5、GPT-5.6、GPT-Image-2等模型。比较推荐。",
+      "notes": [
+        "https://chat.camel-hub.com/chat"
+      ]
+    },
     {
       "name": "NexusvAI",
       "url": "https://www.nexusvai.xyz/chat/?invite=d9ab1463-c4f8-44fc-b9b6-2331a3b4c982",
@@ -32,21 +61,6 @@
       "models": "GLM、Claude、Grok",
       "notes": [
         "每天限领 1 次 · 00:00 刷新（北京时间）"
-      ]
-    },
-    {
-      "name": "CaMeL Al",
-      "url": "https://api.camel-hub.com/register?aff=vERp",
-      "tags": [
-        "非DC",
-        "签到",
-        "生图",
-        "限免"
-      ],
-      "checkin": "0.5-1刀",
-      "summary": "受邀注册有额外奖励。模型很全，有免费使用的Chat类Agent工具，免费使用Fable5、GPT-5.6、GPT-Image-2等模型。比较推荐。",
-      "notes": [
-        "https://chat.camel-hub.com/chat"
       ]
     },
     {
