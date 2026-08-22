@@ -1,2 +1,5 @@
 .DS_Store
 broadcast/data/.local_backups/
+node_modules/
+dist/
+isolate/

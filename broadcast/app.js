@@ -1,6 +1,10 @@
 (function () {
-  const DATA_URL = "./data/sites.json";
-  const NOTICE_URL = "./data/notice.md";
+  // 数据源：优先拉取 main 分支最新内容（推送即生效，无需重新部署），
+  // 失败时回退到随站点一起部署的本地副本。
+  const REMOTE_DATA_BASE =
+    "https://raw.githubusercontent.com/chenjh16/sk-free/main/broadcast/data";
+  const DATA_SOURCES = [`${REMOTE_DATA_BASE}/sites.json`, "./data/sites.json"];
+  const NOTICE_SOURCES = [`${REMOTE_DATA_BASE}/notice.md`, "./data/notice.md"];
   const CACHE_BUSTER = () => `v=${Date.now()}`;
   const THEME_KEY = "broadcast-theme";
   const THEME_CHOICES = ["light", "dark", "system"];
@@ -284,35 +288,81 @@
     renderCards();
   }
 
-  async function loadJson() {
-    const res = await fetch(`${DATA_URL}?${CACHE_BUSTER()}`, { cache: "no-store" });
-    if (!res.ok) throw new Error(`sites.json ${res.status}`);
-    return res.json();
+  async function fetchFromSources(sources, type) {
+    let lastError;
+    for (const url of sources) {
+      try {
+        const res = await fetch(`${url}?${CACHE_BUSTER()}`, { cache: "no-store" });
+        if (!res.ok) {
+          lastError = new Error(`${url} ${res.status}`);
+          continue;
+        }
+        return type === "json" ? await res.json() : await res.text();
+      } catch (error) {
+        lastError = error;
+      }
+    }
+    throw lastError ?? new Error("所有数据源均不可用");
   }
 
+  async function loadJson() {
+    return fetchFromSources(DATA_SOURCES, "json");
+  }
+
+  // 打开中的页面定时刷新：间隔与 GitHub raw 的边缘缓存（约 5 分钟）对齐
+  const REFRESH_INTERVAL_MS = 5 * 60 * 1000;
+  let hasLoadedOnce = false;
+  let lastNoticeText = null;
+
   async function loadNotice() {
+    let text;
     try {
-      const res = await fetch(`${NOTICE_URL}?${CACHE_BUSTER()}`, { cache: "no-store" });
-      if (res.ok) renderNotice(await res.text());
+      text = await fetchFromSources(NOTICE_SOURCES, "text");
     } catch {
-      els.noticeBand.hidden = true;
+      // 首次加载失败才隐藏公告；轮询失败时保留已展示的内容
+      if (lastNoticeText === null) els.noticeBand.hidden = true;
+      return;
     }
+    lastNoticeText = text;
+    renderNotice(text);
+  }
+
+  async function loadData() {
+    const data = await loadJson();
+    state.metadata = data.metadata || {};
+    state.sites = (data.sites || []).filter(isCurrentDatedSite);
+  }
+
+  function renderLoadError(error) {
+    const box = document.createElement("div");
+    box.className = "error-state";
+    box.textContent = `数据加载失败：${error.message}`;
+    els.cardsArea.replaceChildren(box);
+    els.summaryStrip.replaceChildren();
+    els.filterRow.replaceChildren();
   }
 
   async function init() {
     try {
-      const data = await loadJson();
-      state.metadata = data.metadata || {};
-      state.sites = (data.sites || []).filter(isCurrentDatedSite);
+      await loadData();
+      hasLoadedOnce = true;
       render();
       loadNotice();
     } catch (error) {
-      const box = document.createElement("div");
-      box.className = "error-state";
-      box.textContent = `数据加载失败：${error.message}`;
-      els.cardsArea.replaceChildren(box);
-      els.summaryStrip.replaceChildren();
-      els.filterRow.replaceChildren();
+      renderLoadError(error);
+    }
+  }
+
+  async function refreshData() {
+    if (!hasLoadedOnce || document.hidden) return;
+    try {
+      const before = JSON.stringify([state.metadata, state.sites]);
+      await loadData();
+      loadNotice();
+      // 仅在数据确实变化时重绘，避免无谓的 DOM 更新
+      if (JSON.stringify([state.metadata, state.sites]) !== before) render();
+    } catch {
+      // 轮询失败时保留当前列表，等待下一轮
     }
   }
 
@@ -323,4 +373,11 @@
 
   initTheme();
   init();
+
+  // 定时轮询 main 分支数据；切回标签页时立即补一次刷新
+  setInterval(refreshData, REFRESH_INTERVAL_MS);
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) return;
+    refreshData();
+  });
 })();
