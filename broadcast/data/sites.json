@@ -1,9 +1,29 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-08-21"
+    "updatedAt": "2026-08-22"
   },
   "sites": [
+    {
+      "name": "Vyce AI",
+      "url": "https://vyceai.com/signup?ref=VYCE_UMRBKU",
+      "tags": [
+        "签到",
+        "限免"
+      ],
+      "checkin": "5-50刀",
+      "summary": "每日签到额度平均25刀，推荐。",
+      "models": "Claude Opus 5、Grok 4.6",
+      "rate": "1"
+    },
+    {
+      "name": "xKiro",
+      "url": "https://xkiro.com/ref/45RTSBC",
+      "tags": [
+        "限免"
+      ],
+      "summary": "DeepSeek、Qwen、MiniMax、Mimo、Mistral等全系列免费，强烈推荐！"
+    },
     {
       "name": "huihuiyun",
       "url": "https://api.huihuiyun.top/register?aff=JF39SSVLG755",
