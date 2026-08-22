@@ -5,6 +5,14 @@
   },
   "sites": [
     {
+      "name": "洛樱云API",
+      "url": "https://api.luoying.work/register?ref=82QLG9Z5",
+      "tags": [
+        "限免"
+      ],
+      "summary": "完全免费，旗舰开源模型，GPT/Grok都有，有点牛逼..."
+    },
+    {
       "name": "Vyce AI",
       "url": "https://vyceai.com/signup?ref=VYCE_UMRBKU",
       "tags": [
@@ -93,16 +101,6 @@
       "checkin": "每日签到 2-10 刀",
       "summary": "非常推荐，GPT5.6比较稳，签到额度也比较稳，倍率不错。",
       "rate": "0.2"
-    },
-    {
-      "name": "蟹蟹API",
-      "url": "https://newapi.nexusvai.xyz/sign-up?aff=oAgX",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "20代币",
-      "summary": "中转站也有期货，模型明天上，期站！期站！每日签到20代币。"
     },
     {
       "name": "DoCode",
@@ -367,6 +365,16 @@
       "notes": [
         "可能有封号风险，需要购买1元永久保号套餐。"
       ]
+    },
+    {
+      "name": "蟹蟹API",
+      "url": "https://newapi.nexusvai.xyz/sign-up?aff=oAgX",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "20代币",
+      "summary": "中转站也有期货，模型明天上，期站！期站！每日签到20代币。"
     },
     {
       "name": "Future Hub",
