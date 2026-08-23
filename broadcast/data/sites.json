@@ -1,16 +1,22 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-08-22"
+    "updatedAt": "2026-08-23"
   },
   "sites": [
     {
-      "name": "洛樱云API",
-      "url": "https://api.luoying.work/register?ref=82QLG9Z5",
+      "name": "JustDoWork",
+      "url": "https://api.justwoker.icu/sign-up?aff=FWQS",
       "tags": [
-        "限免"
+        "签到"
       ],
-      "summary": "完全免费，旗舰开源模型，GPT/Grok都有，有点牛逼..."
+      "checkin": "20-50刀",
+      "summary": "神站，每日签到额度充足，模型倍率超低。",
+      "models": "opus 4.8，opus 5",
+      "rate": "倍率超低",
+      "notes": [
+        "得用，不用可能被封号。"
+      ]
     },
     {
       "name": "Vyce AI",
@@ -78,20 +84,6 @@
       ]
     },
     {
-      "name": "JiuRelay",
-      "url": "https://jiurelay.com/r/JR-XGWUSD",
-      "tags": [
-        "非DC",
-        "限免"
-      ],
-      "checkin": "免费",
-      "summary": "无需登录，即可领取3小时免费Key，推荐！",
-      "models": "GLM、Claude、Grok",
-      "notes": [
-        "每天限领 1 次 · 00:00 刷新（北京时间）"
-      ]
-    },
-    {
       "name": "Universe Federation",
       "url": "https://api.wapq.cn/register?aff=9k5w",
       "tags": [
@@ -114,6 +106,28 @@
       "summary": "受邀注册赠送100刀，有GPT和Claude旗舰模型，cc、pro、kiro反代。",
       "notes": [
         "但是倍率爆表..."
+      ]
+    },
+    {
+      "name": "洛樱云API",
+      "url": "https://api.luoying.work/register?ref=82QLG9Z5",
+      "tags": [
+        "限免"
+      ],
+      "summary": "完全免费，旗舰开源模型，GPT/Grok都有，有点牛逼..."
+    },
+    {
+      "name": "JiuRelay",
+      "url": "https://jiurelay.com/r/JR-XGWUSD",
+      "tags": [
+        "非DC",
+        "限免"
+      ],
+      "checkin": "免费",
+      "summary": "无需登录，即可领取3小时免费Key，推荐！",
+      "models": "GLM、Claude、Grok",
+      "notes": [
+        "每天限领 1 次 · 00:00 刷新（北京时间）"
       ]
     },
     {
