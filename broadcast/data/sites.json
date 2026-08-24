@@ -85,8 +85,12 @@
       ],
       "checkin": "25刀左右",
       "summary": "签到额度很大，值得推荐！",
+      "register": "NodeLoc",
       "models": "GPT、Gemini、国模",
-      "rate": "1"
+      "rate": "1",
+      "notes": [
+        "使用NodeLoc注册，NodeLoc可以通过邮箱注册。"
+      ]
     },
     {
       "name": "TrueSOTA",
