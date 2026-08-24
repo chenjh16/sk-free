@@ -68,6 +68,16 @@
       ]
     },
     {
+      "name": "星期五",
+      "url": "https://api.fri5.top/sign-up?aff=Zzll",
+      "tags": [
+        "签到"
+      ],
+      "checkin": "1刀左右",
+      "summary": "OpenAI、Claude、Gemini模型，按次0.1-0.01。推荐先薅着。",
+      "rate": "按次最低0.01"
+    },
+    {
       "name": "TrueSOTA",
       "url": "https://true-sota.com/register?aff=LBUM8ZGYXC2P",
       "tags": [],
