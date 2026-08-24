@@ -78,6 +78,17 @@
       "rate": "按次最低0.01"
     },
     {
+      "name": "Fate",
+      "url": "https://fatenewapi.xxxxo.bond/sign-up?aff=XSGs",
+      "tags": [
+        "签到"
+      ],
+      "checkin": "25刀左右",
+      "summary": "签到额度很大，值得推荐！",
+      "models": "GPT、Gemini、国模",
+      "rate": "1"
+    },
+    {
       "name": "TrueSOTA",
       "url": "https://true-sota.com/register?aff=LBUM8ZGYXC2P",
       "tags": [],
