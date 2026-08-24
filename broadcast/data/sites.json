@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-08-23"
+    "updatedAt": "2026-08-24"
   },
   "sites": [
     {
@@ -68,6 +68,14 @@
       ]
     },
     {
+      "name": "TrueSOTA",
+      "url": "https://true-sota.com/register?aff=LBUM8ZGYXC2P",
+      "tags": [],
+      "summary": "注册赠送20刀，推荐给有缘人吧",
+      "models": "GPT、Claude旗舰",
+      "rate": "0.35"
+    },
+    {
       "name": "NexusvAI",
       "url": "https://www.nexusvai.xyz/chat/?invite=d9ab1463-c4f8-44fc-b9b6-2331a3b4c982",
       "tags": [
@@ -81,6 +89,21 @@
       "notes": [
         "注册后，如下网页进入KEY管理：https://www.nexusvai.xyz/chat/api/keys.html",
         "BASE URL在文档中：https://chat.nexusvai.xyz/functions/v1/api-gateway/v1"
+      ]
+    },
+    {
+      "name": "AgentRouter",
+      "url": "https://agentrouter.org/register?aff=l1gl",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "每日 25 刀（需要登出再登录）",
+      "summary": "【强烈推荐】老站恢复，Anthropic API 格式可用。受邀注册 100 刀。",
+      "register": "GitHub",
+      "rate": "1",
+      "notes": [
+        "需要代理访问。注意，每日签到需要登出再重新登录。"
       ]
     },
     {
@@ -167,21 +190,6 @@
       ],
       "checkin": "0.5",
       "summary": "中规中矩，模型挺全的。"
-    },
-    {
-      "name": "AgentRouter",
-      "url": "https://agentrouter.org/register?aff=l1gl",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "每日 25 刀（需要登出再登录）",
-      "summary": "【强烈推荐】老站恢复，Anthropic API 格式可用。受邀注册 100 刀。",
-      "register": "GitHub",
-      "rate": "1",
-      "notes": [
-        "需要代理访问。注意，每日签到需要登出再重新登录。"
-      ]
     },
     {
       "name": "AnyRouter",
