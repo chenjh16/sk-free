@@ -1,9 +1,18 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-08-24"
+    "updatedAt": "2026-08-25"
   },
   "sites": [
+    {
+      "name": "GMI Cloud",
+      "url": "https://console.gmicloud.ai/ref/KKQG9D64",
+      "tags": [
+        "限免"
+      ],
+      "summary": "Minimax-M3、M2.7免费，甚至还有minimax-music-3.0模型。\n速度不错，值得尝试。",
+      "rate": "1"
+    },
     {
       "name": "JustDoWork",
       "url": "https://api.justwoker.icu/sign-up?aff=FWQS",
