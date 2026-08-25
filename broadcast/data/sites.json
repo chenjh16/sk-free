@@ -11,7 +11,10 @@
         "限免"
       ],
       "summary": "Minimax-M3、M2.7免费，甚至还有minimax-music-3.0模型。\n速度不错，值得尝试。",
-      "rate": "1"
+      "rate": "1",
+      "notes": [
+        "Base URL：https://api.gmi-serving.com/v1"
+      ]
     },
     {
       "name": "JustDoWork",
@@ -37,7 +40,10 @@
       "checkin": "5-50刀",
       "summary": "每日签到额度平均25刀，推荐。",
       "models": "Claude Opus 5、Grok 4.6",
-      "rate": "1"
+      "rate": "1",
+      "notes": [
+        "Base URL：https://vyceai.com/v1"
+      ]
     },
     {
       "name": "xKiro",
@@ -45,7 +51,10 @@
       "tags": [
         "限免"
       ],
-      "summary": "DeepSeek、Qwen、MiniMax、Mimo、Mistral等全系列免费，强烈推荐！"
+      "summary": "DeepSeek、Qwen、MiniMax、Mimo、Mistral等全系列免费，强烈推荐！",
+      "notes": [
+        "Base URL：https://api.xkiro.com/v1"
+      ]
     },
     {
       "name": "huihuiyun",
