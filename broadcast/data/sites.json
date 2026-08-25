@@ -74,12 +74,11 @@
       "name": "CaMeL Al",
       "url": "https://api.camel-hub.com/register?aff=vERp",
       "tags": [
-        "非DC",
         "签到",
         "生图",
         "限免"
       ],
-      "checkin": "0.5-1刀",
+      "checkin": "0.5-2刀",
       "summary": "受邀注册有额外奖励。模型很全，有免费使用的Chat类Agent工具，免费使用Fable5、GPT-5.6、GPT-Image-2等模型。比较推荐。",
       "notes": [
         "https://chat.camel-hub.com/chat"
@@ -288,19 +287,6 @@
         "【兑换商城】-【bug team...】- 获得一个json",
         "【账号管理】-【更多操作】-【导入】- 选择json文件。"
       ]
-    },
-    {
-      "name": "GoRouter",
-      "url": "https://gorouter.app/sign-up?aff=bt9W",
-      "tags": [
-        "非DC",
-        "签到"
-      ],
-      "checkin": "10-20刀",
-      "summary": "公益站，受邀注册70刀，按次计费，Opus-5 0.1刀每次。",
-      "register": "Github",
-      "models": "Claude",
-      "rate": "按次"
     },
     {
       "name": "LUNA",
@@ -550,6 +536,19 @@
       "checkin": "每日签到 3 刀",
       "summary": "半 DC 系站点，日常签到额度明确，可生图。",
       "rate": "0.2"
+    },
+    {
+      "name": "GoRouter",
+      "url": "https://gorouter.app/sign-up?aff=bt9W",
+      "tags": [
+        "非DC",
+        "签到"
+      ],
+      "checkin": "10-20刀",
+      "summary": "公益站，受邀注册70刀，按次计费，Opus-5 0.1刀每次。",
+      "register": "Github",
+      "models": "Claude",
+      "rate": "按次"
     },
     {
       "name": "词元枢阁 Token Nexus",
