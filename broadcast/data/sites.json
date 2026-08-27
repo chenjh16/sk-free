@@ -1,9 +1,17 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-08-25"
+    "updatedAt": "2026-08-27"
   },
   "sites": [
+    {
+      "name": "B.AI",
+      "url": "https://chat.b.ai/chat?invite_code=9R3MJZ",
+      "tags": [
+        "限免"
+      ],
+      "summary": "GLM-5.3-Flash、DeepSeek-V4-Flash-Vision-Exp免费"
+    },
     {
       "name": "GMI Cloud",
       "url": "https://console.gmicloud.ai/ref/KKQG9D64",
