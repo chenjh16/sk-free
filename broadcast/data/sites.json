@@ -1,9 +1,34 @@
 {
   "metadata": {
     "title": "Sk-free API Broadcast",
-    "updatedAt": "2026-08-27"
+    "updatedAt": "2026-08-28"
   },
   "sites": [
+    {
+      "name": "KKtoken Al",
+      "url": "https://kktoken.cc/sign-up?aff=zYOc",
+      "tags": [
+        "签到"
+      ],
+      "checkin": "20",
+      "summary": "头像 - 个人资料 - 签到",
+      "models": "Claude Opus 5",
+      "rate": "1",
+      "notes": [
+        "据说和go，tabi，just同源，那么主要要使用，否则有封号风险"
+      ]
+    },
+    {
+      "name": "baaaai",
+      "url": "https://baaaai.com/register?aff=S3ZH3WTESRD9",
+      "tags": [
+        "签到"
+      ],
+      "checkin": "20刀",
+      "summary": "仪表盘右下角可【申请余额】，AI自动审批，前一天有调用量即可。",
+      "models": "GPT-5.6",
+      "rate": "0.3"
+    },
     {
       "name": "B.AI",
       "url": "https://chat.b.ai/chat?invite_code=9R3MJZ",
